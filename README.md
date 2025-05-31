@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-https://github.com/AlfBerht/Temp/blob/main/Fun_stuff.gif
-https://github.com/AlfBerht/Temp/Fun_stuff.gif
-
 <div id="header" align="center">
-  <img src="https://github.com/AlfBerht/Temp/Fun_stuff.gif" width="100"/>
+  <img src="https://github.com/AlfBerht/Temp/blob/main/Fun_stuff.gif" />
 </div>
 
 
