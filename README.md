@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![gifki-krasivye-besplatno-humoraf ru-11](https://github.com/AlfBerht/Temp/blob/main/Fun_stuff.gif)
+https://github.com/AlfBerht/Temp/blob/main/Fun_stuff.gif
 
 **AlfBerht/AlfBerht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
