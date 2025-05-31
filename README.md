@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://github.com/AlfBerht/Temp/blob/main/Fun_stuff_04.gif" />
+<div id="header" align="left">
+  <img src="https://github.com/AlfBerht/Temp/blob/main/Fun_stuff_14.gif" width="500px"/>
 </div>
 
 
