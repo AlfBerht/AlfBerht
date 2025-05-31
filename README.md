@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/AlfBerht/Temp/commit/894ac27e5f18df2ded6d6716053ce8ef559abd3f#diff-f9f5eadf9c087de3957536a815bab5419d7237256bda8d12fba468e304b64d5d" alt="Альтернативный текст">
+
 
 **AlfBerht/AlfBerht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
