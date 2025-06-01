@@ -52,7 +52,7 @@
 
 ---
 
-### :jigsaw: Projects :
+### :jigsaw: Completed Projects :
 
 - Creating a city, from the idea to the final process in Unreal. 2025
 - Creating a solar system in Unreal (blueprint). 2024
