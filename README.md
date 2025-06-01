@@ -24,7 +24,6 @@ I'm currently working on:
 
 :warning: I am currently on a job search. So if you find me a suitable candidate, please contact me:
 
-
 <br /><br /><br /><br /><br />
 <div align="center">
  <a href="mailto:alfberht@gmail.com">
@@ -33,6 +32,9 @@ I'm currently working on:
  <a href="https://www.linkedin.com/in/alfberht/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
+ <a href="https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+ </a></div><br />
 
 <img src="https://komarev.com/ghpvc/?username=AlfBerht&style=flat-square&color=blue" alt=""/>
 </div>
