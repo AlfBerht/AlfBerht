@@ -30,17 +30,9 @@ I'm currently working on:
  <a href="mailto:alfberht@gmail.com">
   <img src="https://img.shields.io/badge/gMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gMail Badge"/>
  </a>
-<a href="tel:+79991112233">Позвоните нам для консультации</a>
-
- 
- <a href="tel:+36307821342">Позвоните нам для консультации
- </a>
  <a href="https://www.linkedin.com/in/alfberht/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
- <a href="https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
- </a></div><br />
 
 <img src="https://komarev.com/ghpvc/?username=AlfBerht&style=flat-square&color=blue" alt=""/>
 </div>
