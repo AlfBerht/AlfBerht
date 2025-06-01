@@ -31,6 +31,7 @@
 
 - Unreal Engine: Blueprint, Auto Materials, RVT (Runtime Virtual Texturing), PCG (Procedural Content Generation), Foliage, MPC (Material Parameter Collections), Optimization, Lighting, Post-Processing and Compositing. Basic FX and Niagara.
 - Maya: Modeling, Mesh Cleanup, Texturing, Lighting, Rendering, Post-Processing and Compositing. Basic Rigging, Animation, XGen and VFX (Visual Effects).
+- Other Tools: Substance Painter, Substance Designer, Gaea, Quixel Mixer, Marmoset Toolbag, Photoshop.
 - Languages: English (B1-B2), Russian (Native), Ukrainian (C1).
 - Soft Skills: Fast learner, Adopt Quickly, Responsible, Aiming for results, Creative, Friendly. </div>
   
