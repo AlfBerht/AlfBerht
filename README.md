@@ -37,6 +37,9 @@ I'm currently working on:
 <a href="mailto:alfberht@gmail.com">
   <img src="https://img.shields.io/badge/gMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gMail Badge"/>
 </a><br />
+<a href=tel:+36307821342">
+  <img src="https://img.shields.io/badge/Phone-blue?style=for-the-badge&logo=Phone&logoColor=white" alt="Phone Badge"/>
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=AlfBerht&style=flat-square&color=blue" alt=""/>
 </div>
