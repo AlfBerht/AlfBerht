@@ -34,7 +34,7 @@ I'm currently working on:
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a><br />
 </a>
-<a href="alfberht@gmail.com">
+<a href="mailto:alfberht@gmail.com">
   <img src="https://img.shields.io/badge/gMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gMail Badge"/>
 </a><br />
 
