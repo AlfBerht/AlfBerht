@@ -1,4 +1,6 @@
-<img src="https://github.com/AlfBerht/AlfBerht/blob/main/Hello/08.png" width="300px"/>
+<div align="center">
+  <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Hello/08.png" width="500px"/>
+</div>
 
 Here are some ideas to get you started:
 
