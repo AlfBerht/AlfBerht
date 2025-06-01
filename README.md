@@ -21,7 +21,7 @@
  - Writing a new book based on my world of Ruthanne. I'm writing it in Russian and translating it automatically into English. So there may well be some inaccuracies.
  - I try to find at least sometimes time to develop skills in digital art. It's not a priority for me, but I find it quite interesting.
 
-:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![gMail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](href="mailto:alfberht@gmail.com") [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/) </div>
+:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![gMail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:alfberht@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/) </div>
 
 <div align="center">
  <a href="mailto:alfberht@gmail.com">
