@@ -33,6 +33,10 @@ I'm currently working on:
 <a href="https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a><br />
+</a>
+<a href="alfberht@gmail.com">
+  <img src="https://img.shields.io/badge/gMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gMail Badge"/>
+</a><br />
 
 <img src="https://komarev.com/ghpvc/?username=AlfBerht&style=flat-square&color=blue" alt=""/>
 </div>
