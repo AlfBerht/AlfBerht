@@ -21,7 +21,7 @@
  - Writing a new book based on my world of Ruthanne. I'm writing it in Russian and translating it automatically into English. So there may well be some inaccuracies.
  - I try to find at least sometimes time to develop skills in digital art. It's not a priority for me, but I find it quite interesting.
 
-:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: </div>
+:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![gMail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](href="mailto:alfberht@gmail.com") [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/) </div>
 
 <div align="center">
  <a href="mailto:alfberht@gmail.com">
@@ -32,6 +32,10 @@
  </a>
  <a href="https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+ </a>
+  </a>
+ <a href="https://alfberht.artstation.com/">
+  <img src="https://img.shields.io/badge/ArtStation-blue?style=for-the-badge&logo=artstation&logoColor=white" alt="artstation Badge"/>
  </a><br />
 
 <img src="https://komarev.com/ghpvc/?username=AlfBerht&style=flat-square&color=blue" alt=""/>
