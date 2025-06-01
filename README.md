@@ -9,7 +9,7 @@
 
 <div>
  I'm a 3D artist. This is the path I chose for myself in 2023. I believe it is my ikegai.
- I especially enjoy creating locations, thinking about who is present, what they are thinking and what they are doing. When creating a scene, I always try to understand the person who is there and assume how things would be if I were that character.
+ I especially enjoy creating locations. When creating a scene, I always try to understand the person who is there and assume how things would be if I were that character.
  
  In 2023 I graduated with two majors: Graphic Design and Architectural Design.
  In 2024, I graduated from a year-long course in 3D Generalist. This step was decisive. During my studies I tried many things and found myself in what I love now.
