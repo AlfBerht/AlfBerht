@@ -3,7 +3,7 @@
    
  <h1><div align="center">
   :star: My name is Kseniia :star:
- </h1></div><br />
+ </h1></div>
 
 ### :jigsaw: About Me :
 
