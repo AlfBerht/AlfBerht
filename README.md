@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoni.papik.pro%2F7847-hello.html&psig=AOvVaw2pA6bId3DsKtwSVGmpZhvt&ust=1748855033472000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC__O7uz40DFQAAAAAdAAAAABAL" width="500px"/>
+<img src="https://foni.papik.pro/uploads/posts/2024-10/foni-papik-pro-acxo-p-kartinki-hello-na-prozrachnom-fone-3.png" width="500px"/>
 
 Here are some ideas to get you started:
 
