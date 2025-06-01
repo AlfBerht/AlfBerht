@@ -1,18 +1,23 @@
-<div align="center">
-  <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Hello/08.png" width="500px"/>
-</div><br /><br />
+ <div align="center">
+  <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Hello/08.png" width="400px"/>
+   
+<h1><div align="center">
+  :star: My name is Kseniia :star:
+</h1>
+  
+<a href="https://www.linkedin.com/in/alfberht/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</a><br />
 
-
-
-        
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alfberht/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=AlfBerht&style=flat-square&color=blue" alt=""/>
 </div>
+
+    
+
+
 
 
     
