@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Hello/08.png" width="400px"/>
+  <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Hello/08.png" width="450px"/>
    
 <h1><div align="center">
   :star: My name is Kseniia :star:
