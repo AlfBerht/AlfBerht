@@ -1,4 +1,4 @@
-<img src="https://foni.papik.pro/uploads/posts/2024-10/foni-papik-pro-acoo-p-kartinki-hello-na-prozrachnom-fone-2.png" width="500px"/>
+<img src="https://www.pngplay.com/wp-content/uploads/6/Hello-Star-Logo-Transparent-PNG.png" width="500px"/>
 
 Here are some ideas to get you started:
 
