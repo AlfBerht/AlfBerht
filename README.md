@@ -30,8 +30,10 @@ I'm currently working on:
  <a href="mailto:alfberht@gmail.com">
   <img src="https://img.shields.io/badge/gMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gMail Badge"/>
  </a>
- <a href="tel:+36307821342">
-  <img src="https://img.shields.io/badge/Phone-blue?style=for-the-badge&logoColor=white"/>
+<a href="tel:+79991112233">Позвоните нам для консультации</a>
+
+ 
+ <a href="tel:+36307821342">Позвоните нам для консультации
  </a>
  <a href="https://www.linkedin.com/in/alfberht/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
