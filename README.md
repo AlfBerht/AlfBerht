@@ -21,14 +21,11 @@
  - Writing a new book based on my world of Ruthanne. I'm writing it in Russian and translating it automatically into English. So there may well be some inaccuracies.
  - I try to find at least sometimes time to develop skills in digital art. It's not a priority for me, but I find it quite interesting.
 
-:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![Gmail](https://img.shields.io/badge/-Gmail-f03c15?style=flat&logo=gmail&logoColor=white)](mailto:alfberht@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/)
+:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![Gmail](https://img.shields.io/badge/-Gmail-f03c15?style=flat&logo=gmail&logoColor=white)](mailto:alfberht@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/) </div>
 
 ---
 
 [![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://github.com/AlfBerht/AlfBerht/blob/main/CV-Kseniia%20Kotliarova.pdf) [![Portfolio](https://img.shields.io/badge/-Portfolio-0095b6?style=flat)](https://github.com/AlfBerht/AlfBerht/blob/main/Portfolio%20-%20Kseniia%20Kotliarova.pdf) :star: [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://alfberht.artstation.com/) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF) :star: <img src="https://komarev.com/ghpvc/?username=AlfBerht&style=flat&color=blue" alt=""/>
-
-
-</div>
 
 ---
 
