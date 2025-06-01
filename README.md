@@ -6,7 +6,7 @@
 
         
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/alfberht/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF">
