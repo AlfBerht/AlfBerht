@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<div id="header" align="left">
-  <img src="https://github.com/AlfBerht/Temp/blob/main/Fun_stuff_04.gif" width="500px"/>
-</div>
-
-
-**AlfBerht/AlfBerht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/AlfBerht/Temp/blob/main/Fun_stuff_04.gif" width="500px"/>
 
 Here are some ideas to get you started:
 
