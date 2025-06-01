@@ -16,6 +16,15 @@ In 2024, I graduated from a year-long course in 3D Generalist. This step was dec
 As a creative person, I of course find myself and other activities that have become my hobbies. In my spare time I paint pictures and write books.
 
 
+I'm currently working on:
+- A Big Scene from the World of Ruthanne. Everything in this scene I'm creating from scratch. The original purpose of creating this project was to show everything I can do. Now to that I will add to the fact that I already love this project. Although, there is still a lot of work to be done.
+- Writing a new book based on my world of Ruthanne. I'm writing it in Russian and translating it automatically into English. So there may well be some inaccuracies.
+:art: I try to find at least sometimes time to develop skills in digital art. It's not a priority for me, but I find it quite interesting.
+
+
+I am currently on a job search. So if you find me a suitable candidate, please contact me:
+
+
 <br /><br /><br /><br /><br /><br /><br />
 <div align="center">
 <a href="https://www.linkedin.com/in/alfberht/">
@@ -29,22 +38,4 @@ As a creative person, I of course find myself and other activities that have bec
 </div>
 
     
-
-
-
-
-    
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
