@@ -1,4 +1,4 @@
-<img src="https://www.pngplay.com/wp-content/uploads/6/Hello-Star-Logo-Transparent-PNG.png" width="500px"/>
+<img src="https://www.pngplay.com/wp-content/uploads/6/Hello-Star-Logo-Transparent-PNG.png" width="300px"/>
 
 Here are some ideas to get you started:
 
