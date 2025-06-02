@@ -35,7 +35,7 @@
 
 ---
 
-[![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://drive.google.com/file/d/19hcyALpcwgPXeHhUy8BJLp-XixzjFP8Q/view?usp=sharing) [![Portfolio](https://img.shields.io/badge/-Portfolio-0095b6?style=flat)](https://drive.google.com/file/d/1aFzhWExEO1rxM27PldG456-66aycrjU8/view?usp=sharing) [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://alfberht.artstation.com/) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)
+[![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://drive.google.com/file/d/1Ipj7EoN_ogIRAZ9Br4Q-4PAfhRu3nUnB/view?usp=sharing) [![Portfolio](https://img.shields.io/badge/-Portfolio-0095b6?style=flat)](https://drive.google.com/file/d/1aFzhWExEO1rxM27PldG456-66aycrjU8/view?usp=sharing) [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://alfberht.artstation.com/) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)
 
 ---
 
