@@ -31,7 +31,7 @@
 
 ---
 
-:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![Gmail](https://img.shields.io/badge/-Gmail-f03c15?style=flat&logo=gmail&logoColor=white)](mailto:alfberht@gmail.com) [![Linkedin](https://img.shields.io/badge/-Linkedin-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/)
+:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![Gmail](https://img.shields.io/badge/-Gmail-f03c15?style=flat&logo=gmail&logoColor=white)](mailto:alfberht@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/)
 
 ---
 
