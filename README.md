@@ -35,7 +35,7 @@
 
 ---
 
-[![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://github.com/AlfBerht/AlfBerht/blob/main/CV-Kseniia%20Kotliarova.pdf) [![Portfolio](https://img.shields.io/badge/-Portfolio-0095b6?style=flat)](https://github.com/AlfBerht/AlfBerht/blob/main/Portfolio%20-%20Kseniia%20Kotliarova.pdf) [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://alfberht.artstation.com/) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)
+[![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://drive.google.com/file/d/19hcyALpcwgPXeHhUy8BJLp-XixzjFP8Q/view?usp=sharing) [![Portfolio](https://img.shields.io/badge/-Portfolio-0095b6?style=flat)](https://github.com/AlfBerht/AlfBerht/blob/main/Portfolio%20-%20Kseniia%20Kotliarova.pdf) [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://alfberht.artstation.com/) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)
 
 ---
 
