@@ -56,3 +56,4 @@
 |        #        |   Title / Название  |
 |  -------------  |   -------------   |
 |        1        |   [Autumn](https://github.com/AlfBerht/TraditionalPaintings/blob/main/Autumn.pdf)  |
+|        2        |   [The Dream](https://github.com/AlfBerht/TraditionalPaintings/blob/main/TheDream.pdf)  |
