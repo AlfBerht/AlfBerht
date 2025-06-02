@@ -41,7 +41,6 @@
 
 
 ### :jigsaw: Hobbies :
-*(If you are interested to familiarize yourself with what I do in my free time, you are welcome).*
 
 :star: Book: Ruthain<br />
 
