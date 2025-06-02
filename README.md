@@ -52,7 +52,7 @@
 |   Chapter Two    |   [День, когда все началось. Часть 2](https://github.com/AlfBerht/Ruthain/blob/main/Rus/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2002%20%D0%94%D0%B5%D0%BD%D1%8C%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D0%B5%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%D1%81%D1%8C.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202.pdf)  | [The day it all began. Part 2](https://github.com/AlfBerht/Ruthain/blob/main/Eng/Chapter%2002%20The%20day%20it%20all%20began.%20Part%202.pdf) |
 |   Chapter Three  |   [День, когда мы покинули Рэйвенбург](https://github.com/AlfBerht/Ruthain/blob/main/Rus/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2003%20%D0%94%D0%B5%D0%BD%D1%8C%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%BC%D1%8B%20%D0%BF%D0%BE%D0%BA%D0%B8%D0%BD%D1%83%D0%BB%D0%B8%20%D0%A0%D1%8D%D0%B9%D0%B2%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3.pdf)  | [The day we left Ravenburg](https://github.com/AlfBerht/Ruthain/blob/main/Eng/Chapter%2003%20The%20day%20we%20left%20Ravenburg.pdf) |
 
-:star: TraditionalPaintings
+:star: Traditional Paintings
 
 |        #        |   Title / Название  |
 |  -------------  |   -------------   |
