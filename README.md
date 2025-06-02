@@ -39,8 +39,8 @@
 
 ---
 
-
 ### :jigsaw: Hobbies :
+*(I'm adding the information below in case you have a desire to know more about me).*
 
 :star: Book: Ruthain<br />
 
