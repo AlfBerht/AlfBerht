@@ -47,13 +47,13 @@
 
 |        #         |   Русский язык    |  English (auto)    |
 |  -------------   |   -------------   |    -------------   |
-|   Chapter One    |   [День, когда все началось. Часть 1](https://github.com/AlfBerht/Ruthain/blob/main/Rus/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2001%20%D0%94%D0%B5%D0%BD%D1%8C%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D0%B5%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%D1%81%D1%8C.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201.pdf)  | [The day it all began. Part 1](https://github.com/AlfBerht/Ruthain/blob/main/Eng/Chapter%2001%20The%20day%20it%20all%20began.%20Part%201.pdf) |
-|   Chapter Two    |   [День, когда все началось. Часть 2](https://github.com/AlfBerht/Ruthain/blob/main/Rus/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2002%20%D0%94%D0%B5%D0%BD%D1%8C%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%81%D0%B5%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%D1%81%D1%8C.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202.pdf)  | [The day it all began. Part 2](https://github.com/AlfBerht/Ruthain/blob/main/Eng/Chapter%2002%20The%20day%20it%20all%20began.%20Part%202.pdf) |
-|   Chapter Three  |   [День, когда мы покинули Рэйвенбург](https://github.com/AlfBerht/Ruthain/blob/main/Rus/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0%2003%20%D0%94%D0%B5%D0%BD%D1%8C%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%BC%D1%8B%20%D0%BF%D0%BE%D0%BA%D0%B8%D0%BD%D1%83%D0%BB%D0%B8%20%D0%A0%D1%8D%D0%B9%D0%B2%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3.pdf)  | [The day we left Ravenburg](https://github.com/AlfBerht/Ruthain/blob/main/Eng/Chapter%2003%20The%20day%20we%20left%20Ravenburg.pdf) |
+|   Chapter One    |   [День, когда все началось. Часть 1](https://drive.google.com/file/d/1iCRm2Nnz0ay8RNbACGFPrhDyHm7lSc7C/view?usp=sharing)  | [The day it all began. Part 1](https://drive.google.com/file/d/15P--NcsGzTaxTX2SQVIinBwwuvUMo1F0/view?usp=sharing) |
+|   Chapter Two    |   [День, когда все началось. Часть 2](https://drive.google.com/file/d/1qW1NfzOiCpT4LH7JqTEa0KGoqhEvqqz7/view?usp=sharing)  | [The day it all began. Part 2](https://drive.google.com/file/d/11SR6fp4_ZfLeo-wCQc5Pn-29FCwWSoqm/view?usp=sharing) |
+|   Chapter Three  |   [День, когда мы покинули Рэйвенбург](https://drive.google.com/file/d/1yW3UcmbdoJM8NFHympXBRGBQZARK7ZmQ/view?usp=sharing)  | [The day we left Ravenburg]([https://github.com/AlfBerht/Ruthain/blob/main/Eng/Chapter%2003%20The%20day%20we%20left%20Ravenburg.pdf](https://drive.google.com/file/d/1V2areKWKXofF7qSS4wSCmkcU9c9NyURt/view?usp=sharing)) |
 
 :star: Traditional Paintings
 
 |        #        |   Title / Название  |
 |  -------------  |   -------------   |
-|        1        |   [Autumn](https://github.com/AlfBerht/TraditionalPaintings/blob/main/Autumn.pdf)  |
-|        2        |   [The Dream](https://github.com/AlfBerht/TraditionalPaintings/blob/main/TheDream.pdf)  |
+|        1        |   [Autumn](https://drive.google.com/file/d/1DBa47JxikiwHDlw9U1h5sT3SipVPm5S4/view?usp=sharing)  |
+|        2        |   [The Dream](https://drive.google.com/file/d/1RIs9GdTxuMZNp-UhlEacTHMC3C5gA2hc/view?usp=sharing)  |
