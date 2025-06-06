@@ -57,3 +57,4 @@
 |  -------------  |   -------------   |
 |        1        |   [Autumn](https://drive.google.com/file/d/1DBa47JxikiwHDlw9U1h5sT3SipVPm5S4/view?usp=sharing)  |
 |        2        |   [The Dream](https://drive.google.com/file/d/1RIs9GdTxuMZNp-UhlEacTHMC3C5gA2hc/view?usp=sharing)  |
+|        3        |   [Ambivalence of Progress](https://github.com/AlfBerht/TraditionalPaintings/blob/main/Ambivalence%20of%20Progress.pdf)  |
