@@ -56,5 +56,9 @@
 |        #        |   Title / Название  |
 |  -------------  |   -------------   |
 |        1        |   [Autumn](https://drive.google.com/file/d/1DBa47JxikiwHDlw9U1h5sT3SipVPm5S4/view?usp=sharing)  |
-|        2        |   [The Dream](https://drive.google.com/file/d/1RIs9GdTxuMZNp-UhlEacTHMC3C5gA2hc/view?usp=sharing)  |
-|        3        |   [Ambivalence of Progress](https://drive.google.com/file/d/182wLnzDcUGDtFCa1jY97kaGjO_q2NKr6/view?usp=sharing)  |
+|        2        |   [Lost World](https://drive.google.com/file/d/11g6oWoYq0-GCu2RhoU_nUNLI99UlVwl0/view?usp=sharing)  |
+|        3        |   [Inner World](https://drive.google.com/file/d/16kcxnlrMgTZ1_AuCAQECz9ogV63bOliI/view?usp=sharing)  |
+|        4        |   [The Dream](https://drive.google.com/file/d/1RIs9GdTxuMZNp-UhlEacTHMC3C5gA2hc/view?usp=sharing)  |
+|        5        |   [Time Limits](https://drive.google.com/file/d/1stE9MuxvOv4ZWmWUSL59Ra8jt5Q9UaY0/view?usp=sharing)  |
+|        6        |   [The Basis](https://drive.google.com/file/d/1hS1VAhwMsNsMn-YZOLNo2_7RAPaNKWYZ/view?usp=sharing)  |
+|        7        |   [Ambivalence of Progress](https://drive.google.com/file/d/182wLnzDcUGDtFCa1jY97kaGjO_q2NKr6/view?usp=sharing)  |
