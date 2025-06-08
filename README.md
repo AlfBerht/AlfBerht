@@ -62,3 +62,13 @@
 |        5        |   [Time Limits](https://drive.google.com/file/d/1stE9MuxvOv4ZWmWUSL59Ra8jt5Q9UaY0/view?usp=sharing)  |
 |        6        |   [The Basis](https://drive.google.com/file/d/1hS1VAhwMsNsMn-YZOLNo2_7RAPaNKWYZ/view?usp=sharing)  |
 |        7        |   [Ambivalence of Progress](https://drive.google.com/file/d/182wLnzDcUGDtFCa1jY97kaGjO_q2NKr6/view?usp=sharing)  |
+
+:star: Digital Paintings
+*(For the most part, it's practice to develop an additional skill)*
+
+
+|        #        |   Title / Название  |
+|  -------------  |   -------------   |
+|        1        |   [Exercise_1-2](https://drive.google.com/file/d/1v47SM1FFe_NwVsH4PTtHQJ3_8q45d2QP/view?usp=sharing)  |
+|        2        |   [Ex._Before](https://drive.google.com/file/d/1RoE1j0IVdRB9kAq6D8rbL_DMcv7pBMKe/view?usp=sharing)  |
+|        3        |   [Ex._01](https://drive.google.com/file/d/1BL3aiXyXuWC5sfJiR9te2kRCn9ZkfSOt/view?usp=sharing)  |
