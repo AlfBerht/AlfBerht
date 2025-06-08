@@ -40,7 +40,7 @@
 ---
 
 ### :jigsaw: 3D Projects :
-
+<div align="center">
 |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  |
 |  -------------  |   -------------   |   -------------   |   -------------   |
 |        1        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January2024  | Maya |
@@ -53,7 +53,7 @@
 |        8        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024  | Maya |
 |        9        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024  | Maya |
 |        10       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024  | Maya |
-|        11       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024  | Maya |<br />
+|        11       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024  | Maya |<br /></div>
 
 
 
