@@ -39,6 +39,14 @@
 
 ---
 
+### :jigsaw: 3D Projects :
+
+|        #        |   Title / Название  |  Year / Год  |
+|  -------------  |   -------------   |   -------------   |
+|        1        |   [Autumn]()  |   |
+
+---
+
 ### :jigsaw: Hobbies :
 *(I'm adding the information below in case you have a desire to know more about me).*
 
