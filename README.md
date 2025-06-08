@@ -43,19 +43,19 @@
  
 |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  |
 |  :---:  |   ---  |   :---:   |   :---:   |
-|        1        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January2024  | Maya |
-|        2        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024  | Maya |
-|        3        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024  | Maya |
-|        4        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024  | Maya |
-|        5        |   [Honey 01](https://drive.google.com/file/d/1wtnyWrhgNHshCq3eJhYQ31njl937SkVf/view?usp=sharing)  | April 2024  | Maya |
-|        6        |   [Honey 02](https://drive.google.com/file/d/1Xm2dZK3R-eTThtF38ymwtfoHcOU7Vq67/view?usp=sharing)  | April 2024  | Maya |
-|        7        |   [Lightsaber](https://drive.google.com/drive/folders/14x3Xt1-Vp38xm165GktvLB3PsXLQ73cI?usp=sharing)  | May 2024  | Maya |
-|        8        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024  | Maya |
-|        9        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024  | Maya |
-|        10       |   [House](https://drive.google.com/file/d/1LTgddAnTO--TWb9P16rhYESoj4O_Xxw4/view?usp=sharing)  | July 2024  |Unreal Engine |
-|        11       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024  | Maya |
-|        12       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024  | Maya |<br /><br />
-|        13       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025  |Unreal Engine |
+|        1        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January2024  | Maya / Photoshop |
+|        2        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024  | Maya / Photoshop |
+|        3        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024  | Maya / Photoshop |
+|        4        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024  | Maya /Premiere Pro / Photoshop |
+|        5        |   [Honey 01](https://drive.google.com/file/d/1wtnyWrhgNHshCq3eJhYQ31njl937SkVf/view?usp=sharing)  | April 2024  | Maya / Photoshop |
+|        6        |   [Honey 02](https://drive.google.com/file/d/1Xm2dZK3R-eTThtF38ymwtfoHcOU7Vq67/view?usp=sharing)  | April 2024  | Maya / Photoshop |
+|        7        |   [Lightsaber](https://drive.google.com/drive/folders/14x3Xt1-Vp38xm165GktvLB3PsXLQ73cI?usp=sharing)  | May 2024  | Maya /Premiere Pro / Photoshop |
+|        8        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024  | Maya / Premiere Pro / Photoshop |
+|        9        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024  | Maya / Premiere Pro / Photoshop |
+|        10       |   [House](https://drive.google.com/file/d/1LTgddAnTO--TWb9P16rhYESoj4O_Xxw4/view?usp=sharing)  | July 2024  |Unreal Engine / Premiere Pro / Photoshop |
+|        11       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024  | Maya / DaVinci / Photoshop |
+|        12       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024  | Maya / DaVinci / Photoshop |
+|        13       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025  |Unreal Engine / Photoshop |
 
 
 
