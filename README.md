@@ -63,7 +63,7 @@
 |        6        |   [The Basis](https://drive.google.com/file/d/1hS1VAhwMsNsMn-YZOLNo2_7RAPaNKWYZ/view?usp=sharing)  |  2023  |
 |        7        |   [Ambivalence of Progress](https://drive.google.com/file/d/182wLnzDcUGDtFCa1jY97kaGjO_q2NKr6/view?usp=sharing)  |  2023  |
 
-:star: Digital Paintings
+:star: Digital Paintings<br />
 *(For the most part, it's practice to develop an additional skill)*
 
 
