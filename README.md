@@ -42,7 +42,7 @@
 ### :jigsaw: 3D Projects :<br />
  
 |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  |
-|  :---:  |   ---  |   :---:   |   :---:   |
+|  :---:  |   ---  |   :---:   |   ---   |
 |        1        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January2024  | Maya / Photoshop |
 |        2        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024  | Maya / Photoshop |
 |        3        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024  | Maya / Photoshop |
