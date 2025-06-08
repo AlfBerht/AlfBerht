@@ -53,22 +53,22 @@
 
 :star: Traditional Paintings
 
-|        #        |   Title / Название  |
-|  -------------  |   -------------   |
-|        1        |   [Autumn](https://drive.google.com/file/d/1DBa47JxikiwHDlw9U1h5sT3SipVPm5S4/view?usp=sharing)  |
-|        2        |   [Lost World](https://drive.google.com/file/d/11g6oWoYq0-GCu2RhoU_nUNLI99UlVwl0/view?usp=sharing)  |
-|        3        |   [Inner World](https://drive.google.com/file/d/16kcxnlrMgTZ1_AuCAQECz9ogV63bOliI/view?usp=sharing)  |
-|        4        |   [The Dream](https://drive.google.com/file/d/1RIs9GdTxuMZNp-UhlEacTHMC3C5gA2hc/view?usp=sharing)  |
-|        5        |   [Time Limits](https://drive.google.com/file/d/1stE9MuxvOv4ZWmWUSL59Ra8jt5Q9UaY0/view?usp=sharing)  |
-|        6        |   [The Basis](https://drive.google.com/file/d/1hS1VAhwMsNsMn-YZOLNo2_7RAPaNKWYZ/view?usp=sharing)  |
-|        7        |   [Ambivalence of Progress](https://drive.google.com/file/d/182wLnzDcUGDtFCa1jY97kaGjO_q2NKr6/view?usp=sharing)  |
+|        #        |   Title / Название  |  Year / Год  |
+|  -------------  |   -------------   |   -------------   |
+|        1        |   [Autumn](https://drive.google.com/file/d/1DBa47JxikiwHDlw9U1h5sT3SipVPm5S4/view?usp=sharing)  |  2017 |
+|        2        |   [Lost World](https://drive.google.com/file/d/11g6oWoYq0-GCu2RhoU_nUNLI99UlVwl0/view?usp=sharing)  |  2022  |
+|        3        |   [Inner World](https://drive.google.com/file/d/16kcxnlrMgTZ1_AuCAQECz9ogV63bOliI/view?usp=sharing)  |  2022 |
+|        4        |   [The Dream](https://drive.google.com/file/d/1RIs9GdTxuMZNp-UhlEacTHMC3C5gA2hc/view?usp=sharing)  |  2022  |
+|        5        |   [Time Limits](https://drive.google.com/file/d/1stE9MuxvOv4ZWmWUSL59Ra8jt5Q9UaY0/view?usp=sharing)  |  2022  |
+|        6        |   [The Basis](https://drive.google.com/file/d/1hS1VAhwMsNsMn-YZOLNo2_7RAPaNKWYZ/view?usp=sharing)  |  2023  |
+|        7        |   [Ambivalence of Progress](https://drive.google.com/file/d/182wLnzDcUGDtFCa1jY97kaGjO_q2NKr6/view?usp=sharing)  |  2023  |
 
 :star: Digital Paintings
 *(For the most part, it's practice to develop an additional skill)*
 
 
-|        #        |   Title / Название  |
-|  -------------  |   -------------   |
-|        1        |   [Exercise_1-2](https://drive.google.com/file/d/1v47SM1FFe_NwVsH4PTtHQJ3_8q45d2QP/view?usp=sharing)  |
-|        2        |   [Ex._Before](https://drive.google.com/file/d/1RoE1j0IVdRB9kAq6D8rbL_DMcv7pBMKe/view?usp=sharing)  |
-|        3        |   [Ex._01](https://drive.google.com/file/d/1BL3aiXyXuWC5sfJiR9te2kRCn9ZkfSOt/view?usp=sharing)  |
+|        #        |   Title / Название  |  Year / Год  |
+|  -------------  |   -------------   |   -------------   |
+|        1        |   [Exercise_1-2](https://drive.google.com/file/d/1v47SM1FFe_NwVsH4PTtHQJ3_8q45d2QP/view?usp=sharing)  |  2023  |
+|        2        |   [Ex._Before](https://drive.google.com/file/d/1RoE1j0IVdRB9kAq6D8rbL_DMcv7pBMKe/view?usp=sharing)  |  2023  |
+|        3        |   [Ex._01](https://drive.google.com/file/d/1BL3aiXyXuWC5sfJiR9te2kRCn9ZkfSOt/view?usp=sharing)  |  2024  |
