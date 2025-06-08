@@ -38,24 +38,22 @@
 [![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://drive.google.com/file/d/1Ipj7EoN_ogIRAZ9Br4Q-4PAfhRu3nUnB/view?usp=sharing) [![Portfolio](https://img.shields.io/badge/-Portfolio-0095b6?style=flat)](https://drive.google.com/file/d/1aFzhWExEO1rxM27PldG456-66aycrjU8/view?usp=sharing) [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://alfberht.artstation.com/) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)
 
 ---
-
-### :jigsaw: 3D Projects :
-
-<div align="center">
  
- |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  |
- |  -------------  |   -------------   |   -------------   |   -------------   |
- |        1        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January2024  | Maya |
- |        2        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024  | Maya |
- |        3        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024  | Maya |
- |        4        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024  | Maya |
- |        5        |   [Honey 01](https://drive.google.com/file/d/1wtnyWrhgNHshCq3eJhYQ31njl937SkVf/view?usp=sharing)  | April 2024  | Maya |
- |        6        |   [Honey 02](https://drive.google.com/file/d/1Xm2dZK3R-eTThtF38ymwtfoHcOU7Vq67/view?usp=sharing)  | April 2024  | Maya |
- |        7        |   [Lightsaber](https://drive.google.com/drive/folders/14x3Xt1-Vp38xm165GktvLB3PsXLQ73cI?usp=sharing)  | May 2024  | Maya |
- |        8        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024  | Maya |
- |        9        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024  | Maya |
- |        10       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024  | Maya |
- |        11       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024  | Maya |<br /></div>
+### :jigsaw: 3D Projects :<br />
+ 
+|        #        |   Title / Название  |  Year / Год  |  Programs / Программы  |
+|  :---:  |   ---  |   :---:   |   :---:   |
+|        1        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January2024  | Maya |
+|        2        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024  | Maya |
+|        3        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024  | Maya |
+|        4        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024  | Maya |
+|        5        |   [Honey 01](https://drive.google.com/file/d/1wtnyWrhgNHshCq3eJhYQ31njl937SkVf/view?usp=sharing)  | April 2024  | Maya |
+|        6        |   [Honey 02](https://drive.google.com/file/d/1Xm2dZK3R-eTThtF38ymwtfoHcOU7Vq67/view?usp=sharing)  | April 2024  | Maya |
+|        7        |   [Lightsaber](https://drive.google.com/drive/folders/14x3Xt1-Vp38xm165GktvLB3PsXLQ73cI?usp=sharing)  | May 2024  | Maya |
+|        8        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024  | Maya |
+|        9        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024  | Maya |
+|        10       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024  | Maya |
+|        11       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024  | Maya |<br />
 
 
 
@@ -68,7 +66,7 @@
 
 
 |        #         |   Русский язык    |  English (auto)    |
-|  -------------   |   -------------   |    -------------   |
+|  ---   |   ---   |    ---   |
 |   Chapter One    |   [День, когда все началось. Часть 1](https://drive.google.com/file/d/1iCRm2Nnz0ay8RNbACGFPrhDyHm7lSc7C/view?usp=sharing)  | [The day it all began. Part 1](https://drive.google.com/file/d/15P--NcsGzTaxTX2SQVIinBwwuvUMo1F0/view?usp=sharing) |
 |   Chapter Two    |   [День, когда все началось. Часть 2](https://drive.google.com/file/d/1qW1NfzOiCpT4LH7JqTEa0KGoqhEvqqz7/view?usp=sharing)  | [The day it all began. Part 2](https://drive.google.com/file/d/11SR6fp4_ZfLeo-wCQc5Pn-29FCwWSoqm/view?usp=sharing) |
 |   Chapter Three  |   [День, когда мы покинули Рэйвенбург](https://drive.google.com/file/d/1yW3UcmbdoJM8NFHympXBRGBQZARK7ZmQ/view?usp=sharing)  | [The day we left Ravenburg](https://drive.google.com/file/d/1V2areKWKXofF7qSS4wSCmkcU9c9NyURt/view?usp=sharing) |
@@ -76,7 +74,7 @@
 :star: Traditional Paintings
 
 |        #        |   Title / Название  |  Year / Год  |
-|  -------------  |   -------------   |   -------------   |
+|  :---:  |   ---   |   :---:   |
 |        1        |   [Autumn](https://drive.google.com/file/d/1DBa47JxikiwHDlw9U1h5sT3SipVPm5S4/view?usp=sharing)  |  2017 |
 |        2        |   [Lost World](https://drive.google.com/file/d/11g6oWoYq0-GCu2RhoU_nUNLI99UlVwl0/view?usp=sharing)  |  2022  |
 |        3        |   [Inner World](https://drive.google.com/file/d/16kcxnlrMgTZ1_AuCAQECz9ogV63bOliI/view?usp=sharing)  |  2022 |
@@ -90,7 +88,7 @@
 
 
 |        #        |   Title / Название  |  Year / Год  |
-|  -------------  |   -------------   |   -------------   |
+|  :---:  |   ---   |   :---:   |
 |        1        |   [Exercise_1-2](https://drive.google.com/file/d/1v47SM1FFe_NwVsH4PTtHQJ3_8q45d2QP/view?usp=sharing)  |  2023  |
 |        2        |   [Ex._Before](https://drive.google.com/file/d/1RoE1j0IVdRB9kAq6D8rbL_DMcv7pBMKe/view?usp=sharing)  |  2023  |
 |        3        |   [Ex._01](https://drive.google.com/file/d/1BL3aiXyXuWC5sfJiR9te2kRCn9ZkfSOt/view?usp=sharing)  |  2024  |
