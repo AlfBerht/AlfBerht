@@ -8,8 +8,9 @@
 ### :jigsaw: About Me :
 
 <div>
- I'm a 3D artist — a path I consciously chose in 2023, and one I believe is my ikigai.
-I’m especially passionate about creating environments. When building a scene, I always try to step into the character’s shoes — imagining what their world feels like and how they interact with it. This approach helps me design spaces that feel alive, believable, and emotionally engaging.
+ I'm a 3D artist — a path I consciously chose in 2023, and one I believe is my ikigai.<br />
+
+I’m especially passionate about creating environments. When building a scene, I always try to step into the character’s shoes — imagining what their world feels like and how they interact with it. This approach helps me design spaces that feel alive, believable, and emotionally engaging.<br />
 
 In 2023, I earned two degrees: one in Graphic Design and another in Architectural Design.
 In 2024, I completed a one-year course as a 3D Generalist. That experience was a turning point for me. Through exploring different aspects of 3D art, I discovered what truly inspires me — creating immersive game worlds.
