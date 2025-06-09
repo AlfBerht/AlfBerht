@@ -95,6 +95,6 @@
 
 |        #        |   Title / Название  |  Year / Год  |
 |  :---:  |   ---   |   :---:   |
-|        1        |   [Exercise_1-2](https://drive.google.com/file/d/1v47SM1FFe_NwVsH4PTtHQJ3_8q45d2QP/view?usp=sharing)  |  2023  |
-|        2        |   [Ex._Before](https://drive.google.com/file/d/1RoE1j0IVdRB9kAq6D8rbL_DMcv7pBMKe/view?usp=sharing)  |  2023  |
-|        3        |   [Ex._01](https://drive.google.com/file/d/1BL3aiXyXuWC5sfJiR9te2kRCn9ZkfSOt/view?usp=sharing)  |  2024  |
+|        1        |   [Sketch 01](https://drive.google.com/file/d/1v47SM1FFe_NwVsH4PTtHQJ3_8q45d2QP/view?usp=sharing)  |  2023  |
+|        2        |   [Exercise 01](https://drive.google.com/file/d/1RoE1j0IVdRB9kAq6D8rbL_DMcv7pBMKe/view?usp=sharing)  |  2023  |
+|        3        |   [Sketch 02](https://drive.google.com/file/d/1BL3aiXyXuWC5sfJiR9te2kRCn9ZkfSOt/view?usp=sharing)  |  2024  |
