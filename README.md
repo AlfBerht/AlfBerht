@@ -77,6 +77,7 @@ In 2024, I completed a one-year course as a 3D Generalist. That experience was a
 |   Chapter One    |   [День, когда все началось. Часть 1](https://drive.google.com/file/d/1iCRm2Nnz0ay8RNbACGFPrhDyHm7lSc7C/view?usp=sharing)  | [The day it all began. Part 1](https://drive.google.com/file/d/15P--NcsGzTaxTX2SQVIinBwwuvUMo1F0/view?usp=sharing) |
 |   Chapter Two    |   [День, когда все началось. Часть 2](https://drive.google.com/file/d/1qW1NfzOiCpT4LH7JqTEa0KGoqhEvqqz7/view?usp=sharing)  | [The day it all began. Part 2](https://drive.google.com/file/d/11SR6fp4_ZfLeo-wCQc5Pn-29FCwWSoqm/view?usp=sharing) |
 |   Chapter Three  |   [День, когда мы покинули Рэйвенбург](https://drive.google.com/file/d/1yW3UcmbdoJM8NFHympXBRGBQZARK7ZmQ/view?usp=sharing)  | [The day we left Ravenburg](https://drive.google.com/file/d/1V2areKWKXofF7qSS4wSCmkcU9c9NyURt/view?usp=sharing) |
+|   Chapter Four   |   [День, когда явился Палач Маррук](https://drive.google.com/file/d/1P1UC9AthyBfSzHZgJGH-onMaDG3sPRo-/view?usp=sharing)  | [The Day the Executioner Marruk Appeared](https://drive.google.com/file/d/1xOoetW_uF87DqQPga5xpgJp2af9ObGd-/view?usp=sharing) |
 
 :star: Traditional Paintings
 
