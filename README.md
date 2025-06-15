@@ -55,7 +55,7 @@ In 2024, I completed a one-year course as a 3D Generalist. That experience was a
 |        9        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop |
 |        10       |   [House](https://drive.google.com/file/d/1LTgddAnTO--TWb9P16rhYESoj4O_Xxw4/view?usp=sharing)  | July 2024 | Unreal Engine / Premiere Pro / Photoshop |
 |        11       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024 | Maya / DaVinci / Photoshop |
-|        12       |   [Sky Ыystem](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)  | August 2024  | Unreal Engine / Blueprint |
+|        12       |   [Sky System](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)  | August 2024  | Unreal Engine / Blueprint |
 |        13       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024 | Maya / DaVinci / Photoshop |
 |        14       |   [Concrete](https://drive.google.com/drive/folders/1c-WtOa708hhC6NwD1WAFz05lZtDB6OHe?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
 |        15       |   [Chain](https://drive.google.com/drive/folders/1vaGgtt_6bukveASrpbvgXVrQWzNgoYcp?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
