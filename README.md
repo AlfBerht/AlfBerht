@@ -73,9 +73,9 @@ In 2024, I completed a one-year course as a 3D Generalist. That experience was a
 :star: Book: Ruthain<br />
 
 *Genre: Dark Fantasy / Psychological Fantasy / Adventure
-Format: Novel, author-created series
+Format: Novel, author-created series*
 
-Description:
+*Description:
 Salvador was once a powerful vampire and a member of a magical order in his home world. But everything changed when that world was destroyed, and he was thrown into another through a mysterious rift. Here, vampires are not immortal nobles of the night — they are a mutated race, stripped of their roots and power. Salvador no longer feels like the creature he once was. He is something else now.
 His only companion is a talking shadow named Shadomorph — a being that exists on the edge between reason and instinct. Together, they struggle to survive in a new and dangerous world, filled with anomalies, magic, and creatures that should never have existed. Monsters emerge from rifts, cities fall in seconds, and the truth about the past lies buried in the ashes of lost worlds.
 Salvador must uncover the mystery of his new nature, find his place in this strange world, earn the trust of his mentor Leonardo, and discover who he has become — if he’s still himself at all.
