@@ -72,7 +72,7 @@ In 2024, I completed a one-year course as a 3D Generalist. That experience was a
 
 :star: Book: Ruthain<br />
 
-*Genre: Dark Fantasy / Psychological Fantasy / Adventure
+*Genre: Dark Fantasy / Psychological Fantasy / Adventure<br />
 Format: Novel, author-created series*
 
 *Description:
