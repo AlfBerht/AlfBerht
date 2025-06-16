@@ -60,7 +60,7 @@ In 2024, I completed a one-year course as a 3D Generalist. That experience was a
 |        14       |   [Concrete](https://drive.google.com/drive/folders/1c-WtOa708hhC6NwD1WAFz05lZtDB6OHe?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
 |        15       |   [Chain](https://drive.google.com/drive/folders/1vaGgtt_6bukveASrpbvgXVrQWzNgoYcp?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
 |        16       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025 | Unreal Engine / Photoshop |
-|        17       |   [Ruthain. Part 01: Modeling](https://youtu.be/NmueUi6bcQA)  | June 2025 | Maya |
+|        17       |   [Ruthain. Part 01: Modeling](https://youtu.be/uU61eAW6bn4)  | June 2025 | Maya |
 
 
 
