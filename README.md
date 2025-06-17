@@ -82,13 +82,7 @@ Salvador must uncover the mystery of his new nature, find his place in this stra
 
 |        #         |   Русский язык    |  English (auto)    |  Date / Дата  |
 |  ---   |   ---   |    ---   |    ---   |
-|   Chapter One    |   [День, когда все началось. Часть 1](https://drive.google.com/file/d/1iCRm2Nnz0ay8RNbACGFPrhDyHm7lSc7C/view?usp=sharing)  | [The day it all began. Part 1](https://drive.google.com/file/d/15P--NcsGzTaxTX2SQVIinBwwuvUMo1F0/view?usp=sharing) |    15 May 2025   |
-|   Chapter Two    |   [День, когда все началось. Часть 2](https://drive.google.com/file/d/1qW1NfzOiCpT4LH7JqTEa0KGoqhEvqqz7/view?usp=sharing)  | [The day it all began. Part 2](https://drive.google.com/file/d/11SR6fp4_ZfLeo-wCQc5Pn-29FCwWSoqm/view?usp=sharing) |    21 May 2025   |
-|   Chapter Three  |   [День, когда мы покинули Рэйвенбург](https://drive.google.com/file/d/1yW3UcmbdoJM8NFHympXBRGBQZARK7ZmQ/view?usp=sharing)  | [The day we left Ravenburg](https://drive.google.com/file/d/1V2areKWKXofF7qSS4wSCmkcU9c9NyURt/view?usp=sharing) |    30 May 2025 |
-|   Chapter Four   |   [День, когда явился Палач Маррук](https://drive.google.com/file/d/1P1UC9AthyBfSzHZgJGH-onMaDG3sPRo-/view?usp=sharing)  | [The Day the Executioner Marruk Appeared](https://drive.google.com/file/d/1xOoetW_uF87DqQPga5xpgJp2af9ObGd-/view?usp=sharing) |   9 June 2025   |
-|   Read Online   |   [Рутхэйн](https://www.litres.ru/72072868/)  | [Ruthain]() |   9 June 2025   |
-
-https://www.litres.ru/72072868/
+|   Read Online   |   [Рутхэйн](https://www.litres.ru/72072868/)  | [Ruthain]() |   Start 16 May 2025 - In Process   |
 
 :star: Traditional Paintings
 
