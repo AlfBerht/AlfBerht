@@ -82,7 +82,7 @@ Salvador must uncover the mystery of his new nature, find his place in this stra
 
 |        #         |   Русский язык    |  English (auto)    |  Date / Дата  |
 |  ---   |   ---   |    ---   |    ---   |
-|   Read Online   |   [Рутхэйн](https://www.litres.ru/72072868/)  | [Ruthain]() |   Start 16 May 2025 - In Process   |
+|   Read Online   |   [Рутхэйн](https://www.litres.ru/72072868/)  | [Ruthain](https://www.litres.ru/72106927/) |   Start 16 May 2025 - In Process   |
 
 :star: Traditional Paintings
 
