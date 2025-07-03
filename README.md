@@ -34,7 +34,7 @@
 Job Expectations:
 
 - Opportunities for professional growth and development.
-- Preferred project style — realism.
+- Preferred project style — realism (or close to it).
 - It’s important that a game is driven by a meaningful idea, not just produced for the sake of it.
 - A company that grows by inspiring and supporting its team, rather than through pressure.
 - Sponsored learning or training would be a strong advantage.
