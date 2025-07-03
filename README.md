@@ -8,12 +8,11 @@
 ### :jigsaw: About Me :
 
 <div>
- I'm a 3D artist — a path I consciously chose in 2023, and one I believe is my ikigai. <br />
-
-I’m especially passionate about creating environments. When building a scene, I always try to step into the character’s shoes — imagining what their world feels like and how they interact with it. This approach helps me design spaces that feel alive, believable, and emotionally engaging. <br />
-
-In 2023, I earned two degrees: one in Graphic Design and another in Architectural Design.
-In 2024, I completed a one-year course as a 3D Generalist. That experience was a turning point for me. Through exploring different aspects of 3D art, I discovered what truly inspires me — creating immersive game worlds.
+ Hi! I’m a 3D World Artist who loves creating worlds with mood, story, and atmosphere. (Creating environments, level design, and worldbuilding systems in Unreal Engine).<br /><br />
+ Thanks to my background in architecture and graphic design, I combine structure and creativity in my work. I enjoy building realistic scenes that feel alive — with thoughtful lighting, materials, and small details that help tell a story.<br />
+ I work with tools like Unreal Engine, Maya, ZBrush, Substance, and others to model, texture, animate, and polish game-ready environments. I especially enjoy scenes that make you feel something.<br />
+ Outside of work, I get inspired by books, traditional art, and story-driven games like The Witcher, Life is Strange, and Final Fantasy. These kinds of stories help shape how I approach my own creative projects.<br /><br />
+ I'm always happy to connect, collaborate, and explore new opportunities. Let’s create something memorable together!
 
  ---
 
