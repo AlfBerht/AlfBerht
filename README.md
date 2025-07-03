@@ -8,7 +8,7 @@
 ### :jigsaw: About Me :
 
 <div>
- Hi! I’m a 3D World Artist who loves creating worlds with mood, story, and atmosphere. (Creating environments, level design, and worldbuilding systems in Unreal Engine).<br /><br />
+ Hi! I’m a 3D World Artist who loves creating immersive environments with mood, story, and atmosphere — specializing in environment creation, level design, and worldbuilding systems using Unreal Engine.<br /><br />
  Thanks to my background in architecture and graphic design, I combine structure and creativity in my work. I enjoy building realistic scenes that feel alive — with thoughtful lighting, materials, and small details that help tell a story.<br />
  I work with tools like Unreal Engine, Maya, ZBrush, Substance, and others to model, texture, animate, and polish game-ready environments. I especially enjoy scenes that make you feel something.<br />
  Outside of work, I get inspired by books, traditional art, and story-driven games like The Witcher, Life is Strange, and Final Fantasy. These kinds of stories help shape how I approach my own creative projects.<br /><br />
@@ -40,7 +40,7 @@ Job Expectations:
 - It’s important that a game is driven by a meaningful idea, not just produced for the sake of it.
 - A company that grows by inspiring and supporting its team, rather than through pressure.
 - Sponsored learning or training would be a strong advantage.
-- Relocation support and sponsorship, if needed.
+- Relocation support and sponsorship opportunities welcomed.
 
 Work Environment:
 
