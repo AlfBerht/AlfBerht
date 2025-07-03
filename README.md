@@ -9,11 +9,8 @@
 
 <div>
  Hi! I’m a 3D World Artist who loves creating immersive environments with mood, story, and atmosphere — specializing in environment creation, level design, and worldbuilding systems using Unreal Engine.<br /><br />
- Thanks to my background in architecture and graphic design, I combine structure and creativity in my work. I enjoy building realistic scenes that feel alive — with thoughtful lighting, materials, and small details that help tell a story.<br />
- I work with tools like Unreal Engine, Maya, ZBrush, Substance, and others to model, texture, animate, and polish game-ready environments. I especially enjoy scenes that make you feel something.<br />
- Outside of work, I get inspired by books, traditional art, and story-driven games like The Witcher, Life is Strange, and Final Fantasy, The Last of Us. These kinds of stories help shape how I approach my own creative projects.<br /><br />
+ Thanks to my background in architecture and graphic design, I combine structure and creativity in my work. I enjoy building realistic scenes that feel alive — with thoughtful lighting, materials, and small details that help tell a story.I work with tools like Unreal Engine, Maya, ZBrush, Substance Painter, Substance Designer and others to model, texture, animate, and polish game-ready environments. I especially enjoy scenes that make you feel something.Outside of work, I get inspired by books, traditional art, and story-driven games like The Witcher, Life is Strange, and Final Fantasy, The Last of Us. These kinds of stories help shape how I approach my own creative projects.<br /><br />
  I'm always happy to connect, collaborate, and explore new opportunities. Let’s create something memorable together!
-
 
  ---
 
