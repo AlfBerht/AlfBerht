@@ -74,8 +74,7 @@ Work Environment:
 |        15       |   [Chain](https://drive.google.com/drive/folders/1vaGgtt_6bukveASrpbvgXVrQWzNgoYcp?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
 |        16       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025 | Unreal Engine / Photoshop |
 |        17       |   [Ruthain. Part 01: Modeling](https://youtu.be/P0POzTQO6vQ)  | June 2025 | Maya |
-
-
+|        18       |   [Creature](https://drive.google.com/file/d/1ddLBHWDeGSPF9KP-TzbMdj3Ya4cxUsKB/view?usp=sharing)  | July 2025 | ZBrush / Photoshop |
 
 
 ---
