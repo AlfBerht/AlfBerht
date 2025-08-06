@@ -11,7 +11,7 @@
 Hi! I'm a 3D Environment Artist working with Unreal Engine to create immersive, story-rich game worlds.
 With a background in architecture and design, I combine structure and mood in my scenes — from layout and lighting to auto-materials, PCG, and RVT systems.
 
-I recently built a full city environment from scratch, handling everything from composition to LOD optimization. I’m also developing a solar system with two suns, moon phases, eclipse control, and customizable weather.
+I recently built a full city environment from scratch, handling everything from composition to LOD optimization. I’m also developing a sky system with two suns, moon phases, eclipse control, and customizable weather.
 
 In total, I’ve completed more than 15 smaller projects — each one helped me grow as an artist and problem-solver.
 I'm especially drawn to projects with narrative depth and grounded worldbuilding.
