@@ -41,21 +41,6 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 
 :warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![Gmail](https://img.shields.io/badge/-Gmail-f03c15?style=flat&logo=gmail&logoColor=white)](mailto:alfberht@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/)
 
-Job Expectations:
-
-- Opportunities for professional growth and development.
-- Preferred project style — realism (or close to it).
-- It’s important that a game is driven by a meaningful idea, not just produced for the sake of it.
-- A company that grows by inspiring and supporting its team, rather than through pressure.
-- Sponsored learning or training would be a strong advantage.
-- Relocation support and sponsorship opportunities welcomed.
-
-Work Environment:
-
-- A respectful and friendly atmosphere within the team.
-- No calls or work tasks outside of working hours.
-- Paid overtime.
-
 ---
 
 [![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://drive.google.com/file/d/19RNmM4orhqw3gBwBeCgFvwB8lBMKCxC7/view?usp=sharing) [![Portfolio](https://img.shields.io/badge/-Portfolio-0095b6?style=flat)](https://drive.google.com/file/d/1Wb0CCGzTGyJg2FCi6IesAvHnDg5vXfix/view?usp=sharing) [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://alfberht.artstation.com/) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)
