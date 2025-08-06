@@ -15,7 +15,7 @@ I recently built a full city environment from scratch, handling everything from 
 
 In total, I’ve completed more than 15 smaller projects — each one helped me grow as an artist and problem-solver.
 I'm especially drawn to projects with narrative depth and grounded worldbuilding.
-Inspired by games like The Witcher, The Division, and The Last of Us, I aim to build worlds that feel alive and emotionally engaging.
+Inspired by games like The Witcher, The Division (first), and The Last of Us, I aim to build worlds that feel alive and emotionally engaging.
 
 Feel free to reach out if you're looking for someone who builds grounded, emotional spaces in Unreal Engine.
 
