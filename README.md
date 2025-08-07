@@ -11,9 +11,11 @@
 Hi! I'm a 3D Environment Artist working with Unreal Engine to create immersive, story-rich game worlds.
 With a background in architecture and design, I combine structure and mood in my scenes — from layout and lighting to auto-materials, PCG, and RVT systems.
 
+After several years in tech roles, I transitioned into environment art full-time — combining my technical background with creative vision.
+Since then, I’ve built over 15 3D projects, including complete environments, props, and experimental systems — each one helped me grow as an artist and problem-solver.
+
 I recently built a full city environment from scratch, handling everything from composition to LOD optimization. I’m also developing a sky system with two suns, moon phases, eclipse control, and customizable weather.
 
-In total, I’ve completed more than 15 smaller projects — each one helped me grow as an artist and problem-solver.
 I'm especially drawn to projects with narrative depth and grounded worldbuilding.
 Inspired by games like The Witcher, The Division (first), and The Last of Us, I aim to build worlds that feel alive and emotionally engaging.
 
