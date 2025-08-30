@@ -8,10 +8,18 @@
 ### :jigsaw: About Me :
 
 <div>
- Hi! I’m a 3D World Artist who loves creating immersive environments with mood, story, and atmosphere — specializing in environment creation, level design, and worldbuilding systems using Unreal Engine.<br /><br />
- Thanks to my background in architecture and graphic design, I combine structure and creativity in my work. I enjoy building realistic scenes that feel alive — with thoughtful lighting, materials, and small details that help tell a story.I work with tools like Unreal Engine, Maya, ZBrush, Substance Painter, Substance Designer and others to model, texture, animate, and polish game-ready environments. I especially enjoy scenes that make you feel something.<br />
- Outside of work, I get inspired by books, traditional art, and story-driven games like The Witcher, Life is Strange, and Final Fantasy, The Last of Us. These kinds of stories help shape how I approach my own creative projects.<br /><br />
- I'm always happy to connect, collaborate, and explore new opportunities. Let’s create something memorable together!
+Hi! I'm a 3D Environment Artist working with Unreal Engine to create immersive, story-rich game worlds.
+With a background in architecture and design, I combine structure and mood in my scenes — from layout and lighting to auto-materials, PCG, and RVT systems.
+
+After several years in tech roles, I transitioned into environment art full-time — combining my technical background with creative vision.
+Since then, I’ve built over 15 3D projects, including complete environments, props, and experimental systems — each one helped me grow as an artist and problem-solver.
+
+I recently built a full city environment from scratch, handling everything from composition to LOD optimization. I’m also developing a sky system with two suns, moon phases, eclipse control, and customizable weather.
+
+I'm especially drawn to projects with narrative depth and grounded worldbuilding.
+Inspired by games like The Witcher, The Division (first), and The Last of Us, I aim to build worlds that feel alive and emotionally engaging.
+
+Feel free to reach out if you're looking for someone who builds grounded, emotional spaces in Unreal Engine.
 
  ---
 
@@ -34,21 +42,6 @@
 ---
 
 :warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![Gmail](https://img.shields.io/badge/-Gmail-f03c15?style=flat&logo=gmail&logoColor=white)](mailto:alfberht@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/)
-
-Job Expectations:
-
-- Opportunities for professional growth and development.
-- Preferred project style — realism (or close to it).
-- It’s important that a game is driven by a meaningful idea, not just produced for the sake of it.
-- A company that grows by inspiring and supporting its team, rather than through pressure.
-- Sponsored learning or training would be a strong advantage.
-- Relocation support and sponsorship opportunities welcomed.
-
-Work Environment:
-
-- A respectful and friendly atmosphere within the team.
-- No calls or work tasks outside of working hours.
-- Paid overtime.
 
 ---
 
