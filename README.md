@@ -89,7 +89,7 @@ His only companion is a talking shadow named Shadomorph — a being that exists 
 Salvador must uncover the mystery of his new nature, find his place in this strange world, earn the trust of his mentor Leonardo, and discover who he has become — if he’s still himself at all.*
 
 |        #         |   Book    |  Date / Дата  |
-|  ---   |   ---   |    ---   |    ---   |
+|  ---   |   ---   |    ---   |
 |   Read Online   |   [Рутхэйн](https://www.patreon.com/c/Ruthain)  |   Start 16 May 2025 - In Process   |
 
 :star: Traditional Paintings
