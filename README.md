@@ -90,7 +90,7 @@ Salvador must uncover the mystery of his new nature, find his place in this stra
 
 |        #         |   Book    |  Date / Дата  |
 |  ---   |   ---   |    ---   |
-|   Read Online   |   [Рутхэйн](https://www.patreon.com/c/Ruthain)  |   Start 16 May 2025 - In Process   |
+|   Read Online   |   [Рутхэйн / Ruthain](https://www.patreon.com/c/Ruthain)  |   Start 16 May 2025 - In Process   |
 
 :star: Traditional Paintings
 
