@@ -88,9 +88,9 @@ Salvador was once a powerful vampire and a member of a magical order in his home
 His only companion is a talking shadow named Shadomorph — a being that exists on the edge between reason and instinct. Together, they struggle to survive in a new and dangerous world, filled with anomalies, magic, and creatures that should never have existed. Monsters emerge from rifts, cities fall in seconds, and the truth about the past lies buried in the ashes of lost worlds.
 Salvador must uncover the mystery of his new nature, find his place in this strange world, earn the trust of his mentor Leonardo, and discover who he has become — if he’s still himself at all.*
 
-|        #         |   Русский язык    |  English (auto)    |  Date / Дата  |
+|        #         |   Book    |  Date / Дата  |
 |  ---   |   ---   |    ---   |    ---   |
-|   Read Online   |   [Рутхэйн](https://www.litres.ru/72072868/)  | [Ruthain](https://www.litres.ru/72106927/) |   Start 16 May 2025 - In Process   |
+|   Read Online   |   [Рутхэйн](https://www.patreon.com/c/Ruthain)  |   Start 16 May 2025 - In Process   |
 
 :star: Traditional Paintings
 
