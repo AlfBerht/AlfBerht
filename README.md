@@ -71,6 +71,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        16       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025 | Unreal Engine / Photoshop |
 |        17       |   [Ruthain. Part 01: Modeling](https://youtu.be/P0POzTQO6vQ)  | June 2025 | Maya |
 |        18       |   [Creature](https://drive.google.com/file/d/1ddLBHWDeGSPF9KP-TzbMdj3Ya4cxUsKB/view?usp=sharing)  | July 2025 | ZBrush / Photoshop |
+|        19       |   [Practice in Substance Painter](https://drive.google.com/file/d/16yl4KUqH3Pd9MyopTAV5WtiOB8ZZNK3c/view?usp=sharing)  | August 2025 |Substance Painter / Marmoset |
 
 
 ---
