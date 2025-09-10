@@ -85,9 +85,9 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 Format: Novel, author-created series*
 
 *Description:
-Salvador was once a powerful vampire and a member of a magical order in his home world. But everything changed when he was thrown into another world a mysterious rift. Here, vampires are not immortal nobles of the night — they are a mutated race. Salvador no longer feels like the creature he once was. He is something else now.
-His only companion is a talking shadow named Shadomorph — a being that exists on the edge between reason and instinct. Together, they struggle to survive in a new and dangerous world, filled with anomalies, magic, and creatures that should never have existed. Monsters emerge from rifts, cities fall in seconds, and the truth about the past lies buried in the ashes of lost worlds.
-Salvador must uncover the mystery of his new nature, find his place in this strange world, earn the trust of his mentor Leonardo, and discover who he has become — if he’s still himself at all.*
+Salvador woke up in a foreign world where fear can literally kill.
+Now his companion is a sentient shadow named Shadomorph, and his path is a struggle against monsters, his past, and himself. Every new trial not only tests his strength but also teaches him what he has avoided all his life: trust, responsibility, and the courage to protect others.
+This is not the story of a hero, but of someone still learning how to become one.*
 
 |        #         |   Book    |  Date / Дата  |
 |  ---   |   ---   |    ---   |
