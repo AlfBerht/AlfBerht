@@ -35,7 +35,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 
 ---
 
-[![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://drive.google.com/file/d/19RNmM4orhqw3gBwBeCgFvwB8lBMKCxC7/view?usp=sharing) [![Portfolio](https://img.shields.io/badge/-Portfolio-0095b6?style=flat)](https://drive.google.com/file/d/1Wb0CCGzTGyJg2FCi6IesAvHnDg5vXfix/view?usp=sharing) [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://alfberht.artstation.com/) [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ruthain.saga/) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF) [![Patreon](https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/c/Ruthain)
+[![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://drive.google.com/file/d/19RNmM4orhqw3gBwBeCgFvwB8lBMKCxC7/view?usp=sharing) ![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://alfberht.artstation.com/) [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ruthain.saga/) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF) [![Patreon](https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/c/Ruthain)
 
 ---
  
