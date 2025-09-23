@@ -8,7 +8,7 @@
 ### :jigsaw: About Me :
 
 <div>
-Hi! 3D Environment Artist working with Unreal Engine to build high-quality, story-driven environments. Inspired by The Witcher, The Last of Us, and Final Fantasy, I create worlds that feel grounded and alive.<br />
+Hi! 3D Environment Artist working with Unreal Engine to build high-quality, story-driven environments. Inspired by The Witcher, The Last of Us, and Final Fantasy, I create worlds that feel grounded and alive.<br /><br />
 Feel free to reach out if you're looking for someone who builds grounded, emotional spaces.
 
  ---
