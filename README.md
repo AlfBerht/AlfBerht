@@ -38,7 +38,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 
 ---
  
-### :jigsaw: 3D Projects :<br />
+### :jigsaw: My path in 3D. All my personal projects from the very beginning. :<br />
  
 |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  |
 |  :---:  |   ---  |   :---:   |   ---   |
