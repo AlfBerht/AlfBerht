@@ -22,7 +22,6 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
   <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Logos/Marmoset_02.png" title="Marmoset Toolbag" alt="Marmoset Toolbag" width="40" height="40"/>&nbsp;
   <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Logos/Photoshop.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Logos/Unreal.png" title="Unreal Engine 5" alt="Unreal Engine 5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Logos/QuixelMixer.png" title="QuixelMixer" alt="QuixelMixer" width="37" height="40"/>&nbsp;
   <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Logos/Gaea.png" title="Gaea" alt="Gaea" width="37" height="40"/>&nbsp;
   <img src="https://github.com/AlfBerht/AlfBerht/blob/main/Logos/GitHub.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   
