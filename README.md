@@ -43,7 +43,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
  
 |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  |
 |  :---:  |   ---  |   :---:   |   ---   |
-|        1        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January2024 | Maya / Photoshop |
+|        1        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January 2024 | Maya / Photoshop |
 |        2        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024 | Maya / Photoshop |
 |        3        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024 | Maya / Photoshop |
 |        4        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024 | Maya / Premiere Pro / Photoshop |
@@ -62,8 +62,8 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        17       |   [Ruthain. Part 01: Modeling](https://youtu.be/P0POzTQO6vQ)  | June 2025 | Maya |
 |        18       |   [Creature](https://drive.google.com/file/d/1ddLBHWDeGSPF9KP-TzbMdj3Ya4cxUsKB/view?usp=sharing)  | July 2025 | ZBrush / Photoshop |
 |        19       |   [Practice in Substance Painter](https://drive.google.com/file/d/16yl4KUqH3Pd9MyopTAV5WtiOB8ZZNK3c/view?usp=sharing)  | August 2025 |Substance Painter / Marmoset |
-|        20       |   [Bath](https://alfberht.artstation.com/projects/eRyNl6)  | September 2025 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
-|        21       |   [Comb Fox](https://www.artstation.com/artwork/oJwoPk)  | October 2025 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
+|        20       |   [Bath](https://alfberht.artstation.com/projects/eRyNl6)  | December 2025 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
+|        21       |   [Set for Bath 01](https://www.artstation.com/artwork/oJDOmq)  | January 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
 
 ---
 
