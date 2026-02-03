@@ -63,6 +63,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        19       |   [Practice in Substance Painter](https://drive.google.com/file/d/16yl4KUqH3Pd9MyopTAV5WtiOB8ZZNK3c/view?usp=sharing)  | August 2025 |Substance Painter / Marmoset |
 |        20       |   [Bath](https://www.artstation.com/artwork/0lQN0w)  | December 2025 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
 |        21       |   [Set for Bath 01](https://www.artstation.com/artwork/oJDOmq)  | January 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
+|        22       |   [Spine Tools](https://www.artstation.com/artwork/lGwLoo)  | February 2026 | Unreal Engine |
 
 ---
 
