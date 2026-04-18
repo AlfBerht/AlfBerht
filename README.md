@@ -66,6 +66,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        $\color{#20B2AA}{22}$       |   [Spine Tools](https://www.artstation.com/artwork/lGwLoo)  | February 2026 | Unreal Engine |
 |        $\color{#20B2AA}{23}$       |   [Set for Bath 02](https://www.artstation.com/artwork/WXNJOD)  | February 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
 |        $\color{#20B2AA}{24}$       |   [Custom Water System](https://www.artstation.com/artwork/0lyBY5)  | March 2026 | Unreal Engine |
+> $\color{#20B2AA}{\text{■}}$ — **This color represents entirely personal projects.**
 
 ---
 
