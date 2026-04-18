@@ -41,7 +41,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 ### :jigsaw: My path in 3D. All my personal projects from the very beginning. :<br />
  
 |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  | Resource Link / Ссылка на ресурс |
-|  :---:  |   ---  |   :---:   |   ---   |
+|  :---:  |   ---  |   :---:   |   ---   |   ---   |
 |        $\color{#FFD700}{1}$        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January 2024 | Maya / Photoshop | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{2}$        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024 | Maya / Photoshop | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{3}$        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024 | Maya / Photoshop | Resource Link / Ссылка на ресурс |
