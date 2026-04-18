@@ -67,6 +67,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        $\color{#20B2AA}{23}$       |   [Set for Bath 02](https://www.artstation.com/artwork/WXNJOD)  | February 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine | Personal Project / Личный проект |
 |        $\color{#20B2AA}{24}$       |   [Custom Water System](https://www.artstation.com/artwork/0lyBY5)  | March 2026 | Unreal Engine | Personal Project / Личный проект |
 > $\color{#BDB76B}{\text{■}}$ — **Projects completed during my studies at CGTarian, Udemy or other platforms.**<br />
+> $\color{#white}{\text{■}}$ — **Practice**<br />
 > $\color{#FF0000}{\text{■}}$ — **Tasks completed for job applications or skill evaluations**<br />
 > $\color{#20B2AA}{\text{■}}$ — **My own independent work from scratch.**
 
