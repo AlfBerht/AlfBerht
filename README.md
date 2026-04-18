@@ -61,7 +61,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        17       |   [Ruthain. Part 01: Modeling](https://youtu.be/P0POzTQO6vQ)  | June 2025 | Maya |
 |        18       |   [Creature](https://drive.google.com/file/d/1ddLBHWDeGSPF9KP-TzbMdj3Ya4cxUsKB/view?usp=sharing)  | July 2025 | ZBrush / Photoshop |
 |        19       |   [Practice in Substance Painter](https://drive.google.com/file/d/16yl4KUqH3Pd9MyopTAV5WtiOB8ZZNK3c/view?usp=sharing)  | August 2025 |Substance Painter / Marmoset |
-|        $$\color{yellow}{20}$$       |   [Bath](https://www.artstation.com/artwork/0lQN0w)  | December 2025 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
+|        $\color{#20B2AA}{123}$       |   [Bath](https://www.artstation.com/artwork/0lQN0w)  | December 2025 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
 |        21       |   [Set for Bath 01](https://www.artstation.com/artwork/oJDOmq)  | January 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
 |        22       |   [Spine Tools](https://www.artstation.com/artwork/lGwLoo)  | February 2026 | Unreal Engine |
 |        23       |   [Set for Bath 02](https://www.artstation.com/artwork/WXNJOD)  | February 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
