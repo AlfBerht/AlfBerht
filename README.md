@@ -44,12 +44,12 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |  :---:  |   ---  |   :---:   |   ---   |   ---   |
 |        $\color{#BDB76B}{1}$        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January 2024 | Maya / Photoshop | [Learn Maya - A Beginners guide to Creating Realistic Scenes](https://www.udemy.com/course/learn-maya-for-beginners/) |
 |        $\color{#BDB76B}{2}$        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024 | Maya / Photoshop | [CG Generalist](https://www.cgtarian.ru/online-kursy/3d-post-produkciya-vfx/cg-generalist.html) |
-|        $\color{#20B2AA}{3}$        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024 | Maya / Photoshop | Practice / Практика |
+|        $\color{#FFFFF0}{3}$        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024 | Maya / Photoshop | Practice / Практика |
 |        $\color{#BDB76B}{4}$        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024 | Maya / Premiere Pro / Photoshop | [Maya for Beginners: Complete Guide to 3D Animation in Maya](https://www.udemy.com/course/autodesk-maya-3d-animation-course/) |
 |        $\color{#BDB76B}{5}$        |   [Honey 01](https://drive.google.com/file/d/1wtnyWrhgNHshCq3eJhYQ31njl937SkVf/view?usp=sharing)  | April 2024 | Maya / Photoshop | [CG Generalist](https://www.cgtarian.ru/online-kursy/3d-post-produkciya-vfx/cg-generalist.html)  |
-|        $\color{#20B2AA}{6}$        |   [Honey 02](https://drive.google.com/file/d/1Xm2dZK3R-eTThtF38ymwtfoHcOU7Vq67/view?usp=sharing)  | April 2024 | Maya / Photoshop | Practice / Практика |
-|        $\color{#20B2AA}{7}$        |   [Lightsaber](https://drive.google.com/drive/folders/14x3Xt1-Vp38xm165GktvLB3PsXLQ73cI?usp=sharing)  | May 2024 | Maya / Premiere Pro / Photoshop | Practice / Практика |
-|        $\color{#20B2AA}{8}$        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop | Practice / Практика |
+|        $\color{#FFFFF0}{6}$        |   [Honey 02](https://drive.google.com/file/d/1Xm2dZK3R-eTThtF38ymwtfoHcOU7Vq67/view?usp=sharing)  | April 2024 | Maya / Photoshop | Practice / Практика |
+|        $\color{#FFFFF0}{7}$        |   [Lightsaber](https://drive.google.com/drive/folders/14x3Xt1-Vp38xm165GktvLB3PsXLQ73cI?usp=sharing)  | May 2024 | Maya / Premiere Pro / Photoshop | Practice / Практика |
+|        $\color{#FFFFF0}{8}$        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop | Practice / Практика |
 |        $\color{#BDB76B}{9}$        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop | [Maya for Beginners: Complete Guide to 3D Animation in Maya](https://www.udemy.com/course/autodesk-maya-3d-animation-course/) |
 |        $\color{#BDB76B}{10}$       |   [House](https://drive.google.com/file/d/1LTgddAnTO--TWb9P16rhYESoj4O_Xxw4/view?usp=sharing)  | July 2024 | Unreal Engine / Premiere Pro / Photoshop | [Unreal Engine 5 Beginners Guide to Building an Environment](https://www.udemy.com/course/unreal-engine-5-beginners-guide-building-environment/) |
 |        $\color{#BDB76B}{11}$       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024 | Maya / DaVinci / Photoshop | [CG Generalist](https://www.cgtarian.ru/online-kursy/3d-post-produkciya-vfx/cg-generalist.html) |
@@ -67,7 +67,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        $\color{#20B2AA}{23}$       |   [Set for Bath 02](https://www.artstation.com/artwork/WXNJOD)  | February 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine | Personal Project / Личный проект |
 |        $\color{#20B2AA}{24}$       |   [Custom Water System](https://www.artstation.com/artwork/0lyBY5)  | March 2026 | Unreal Engine | Personal Project / Личный проект |
 > $\color{#BDB76B}{\text{■}}$ — **Projects completed during my studies at CGTarian, Udemy or other platforms.**<br />
-> $\color{#white}{\text{■}}$ — **Practice**<br />
+> $\color{#FFFFF0}{\text{■}}$ — **Practice**<br />
 > $\color{#FF0000}{\text{■}}$ — **Tasks completed for job applications or skill evaluations**<br />
 > $\color{#20B2AA}{\text{■}}$ — **My own independent work from scratch.**
 
