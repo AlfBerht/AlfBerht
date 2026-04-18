@@ -42,7 +42,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
  
 |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  | Resource Link / Ссылка на ресурс |
 |  :---:  |   ---  |   :---:   |   ---   |   ---   |
-|        $\color{#FFD700}{1}$        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January 2024 | Maya / Photoshop | [Resource Link / Ссылка на ресурс](https://www.udemy.com/course/learn-maya-for-beginners/) |
+|        $\color{#FFD700}{1}$        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January 2024 | Maya / Photoshop | [Learn Maya - A Beginners guide to Creating Realistic Scenes](https://www.udemy.com/course/learn-maya-for-beginners/) |
 |        $\color{#FFD700}{2}$        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024 | Maya / Photoshop | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{3}$        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024 | Maya / Photoshop | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{4}$        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024 | Maya / Premiere Pro / Photoshop | Resource Link / Ссылка на ресурс |
