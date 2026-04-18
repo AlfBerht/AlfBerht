@@ -51,21 +51,21 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        $\color{#20B2AA}{7}$        |   [Lightsaber](https://drive.google.com/drive/folders/14x3Xt1-Vp38xm165GktvLB3PsXLQ73cI?usp=sharing)  | May 2024 | Maya / Premiere Pro / Photoshop | Practice / Практика |
 |        $\color{#20B2AA}{8}$        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop | Practice / Практика |
 |        $\color{#FFD700}{9}$        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop | [Maya for Beginners: Complete Guide to 3D Animation in Maya](https://www.udemy.com/course/autodesk-maya-3d-animation-course/) |
-|        $\color{#FFD700}{10}$       |   [House](https://drive.google.com/file/d/1LTgddAnTO--TWb9P16rhYESoj4O_Xxw4/view?usp=sharing)  | July 2024 | Unreal Engine / Premiere Pro / Photoshop | Resource Link / Ссылка на ресурс |
-|        $\color{#FFD700}{11}$       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024 | Maya / DaVinci / Photoshop | Resource Link / Ссылка на ресурс |
+|        $\color{#FFD700}{10}$       |   [House](https://drive.google.com/file/d/1LTgddAnTO--TWb9P16rhYESoj4O_Xxw4/view?usp=sharing)  | July 2024 | Unreal Engine / Premiere Pro / Photoshop | [Unreal Engine 5 Beginners Guide to Building an Environment](https://www.udemy.com/course/unreal-engine-5-beginners-guide-building-environment/) |
+|        $\color{#FFD700}{11}$       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024 | Maya / DaVinci / Photoshop | [CG Generalist](https://www.cgtarian.ru/online-kursy/3d-post-produkciya-vfx/cg-generalist.html) |
 |        $\color{#FFD700}{12}$       |   [Sky System](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)  | August 2024  | Unreal Engine / Blueprint | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{13}$       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024 | Maya / DaVinci / Photoshop | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{14}$       |   [Concrete](https://drive.google.com/drive/folders/1c-WtOa708hhC6NwD1WAFz05lZtDB6OHe?usp=sharing)  | December 2024 | Substance Designer / Marmoset | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{15}$       |   [Chain](https://drive.google.com/drive/folders/1vaGgtt_6bukveASrpbvgXVrQWzNgoYcp?usp=sharing)  | December 2024 | Substance Designer / Marmoset | Resource Link / Ссылка на ресурс |
-|        $\color{#FFD700}{16}$       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025 | Unreal Engine / Photoshop | Resource Link / Ссылка на ресурс |
-|        $\color{#FFD700}{17}$       |   [Ruthain. Part 01: Modeling](https://youtu.be/P0POzTQO6vQ)  | June 2025 | Maya | Resource Link / Ссылка на ресурс |
+|        $\color{#FFD700}{16}$       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025 | Unreal Engine / Photoshop | Technical Assessment / Тестовое задание |
+|        $\color{#20B2AA}{17}$       |   [Ruthain. Part 01: Modeling](https://youtu.be/P0POzTQO6vQ)  | June 2025 | Maya | Personal Project / Личный проект |
 |        $\color{#FFD700}{18}$       |   [Creature](https://drive.google.com/file/d/1ddLBHWDeGSPF9KP-TzbMdj3Ya4cxUsKB/view?usp=sharing)  | July 2025 | ZBrush / Photoshop | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{19}$       |   [Practice in Substance Painter](https://drive.google.com/file/d/16yl4KUqH3Pd9MyopTAV5WtiOB8ZZNK3c/view?usp=sharing)  | August 2025 |Substance Painter / Marmoset | Resource Link / Ссылка на ресурс |
-|        $\color{#20B2AA}{20}$       |   [Bath](https://www.artstation.com/artwork/0lQN0w)  | December 2025 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine | Resource Link / Ссылка на ресурс |
-|        $\color{#20B2AA}{21}$       |   [Set for Bath 01](https://www.artstation.com/artwork/oJDOmq)  | January 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine | Resource Link / Ссылка на ресурс |
-|        $\color{#20B2AA}{22}$       |   [Spine Tools](https://www.artstation.com/artwork/lGwLoo)  | February 2026 | Unreal Engine | Resource Link / Ссылка на ресурс |
-|        $\color{#20B2AA}{23}$       |   [Set for Bath 02](https://www.artstation.com/artwork/WXNJOD)  | February 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine | Resource Link / Ссылка на ресурс |
-|        $\color{#20B2AA}{24}$       |   [Custom Water System](https://www.artstation.com/artwork/0lyBY5)  | March 2026 | Unreal Engine | Resource Link / Ссылка на ресурс |
+|        $\color{#20B2AA}{20}$       |   [Bath](https://www.artstation.com/artwork/0lQN0w)  | December 2025 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine | Personal Project / Личный проект |
+|        $\color{#20B2AA}{21}$       |   [Set for Bath 01](https://www.artstation.com/artwork/oJDOmq)  | January 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine | Personal Project / Личный проект |
+|        $\color{#20B2AA}{22}$       |   [Spine Tools](https://www.artstation.com/artwork/lGwLoo)  | February 2026 | Unreal Engine | Personal Project / Личный проект |
+|        $\color{#20B2AA}{23}$       |   [Set for Bath 02](https://www.artstation.com/artwork/WXNJOD)  | February 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine | Personal Project / Личный проект |
+|        $\color{#20B2AA}{24}$       |   [Custom Water System](https://www.artstation.com/artwork/0lyBY5)  | March 2026 | Unreal Engine | Personal Project / Личный проект |
 > $\color{#FFD700}{\text{■}}$ — **This color represents projects completed as part of courses or tutorials.**<br />
 > $\color{#20B2AA}{\text{■}}$ — **This color represents entirely personal projects.**
 
