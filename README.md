@@ -42,25 +42,25 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
  
 |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  |
 |  :---:  |   ---  |   :---:   |   ---   |
-|        1        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January 2024 | Maya / Photoshop |
-|        2        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024 | Maya / Photoshop |
-|        3        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024 | Maya / Photoshop |
-|        4        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024 | Maya / Premiere Pro / Photoshop |
-|        5        |   [Honey 01](https://drive.google.com/file/d/1wtnyWrhgNHshCq3eJhYQ31njl937SkVf/view?usp=sharing)  | April 2024 | Maya / Photoshop |
-|        6        |   [Honey 02](https://drive.google.com/file/d/1Xm2dZK3R-eTThtF38ymwtfoHcOU7Vq67/view?usp=sharing)  | April 2024 | Maya / Photoshop |
-|        7        |   [Lightsaber](https://drive.google.com/drive/folders/14x3Xt1-Vp38xm165GktvLB3PsXLQ73cI?usp=sharing)  | May 2024 | Maya / Premiere Pro / Photoshop |
-|        8        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop |
-|        9        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop |
-|        10       |   [House](https://drive.google.com/file/d/1LTgddAnTO--TWb9P16rhYESoj4O_Xxw4/view?usp=sharing)  | July 2024 | Unreal Engine / Premiere Pro / Photoshop |
+|        $\color{#FFD700}{1}$        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January 2024 | Maya / Photoshop |
+|        $\color{#FFD700}{2}$        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024 | Maya / Photoshop |
+|        $\color{#FFD700}{3}$        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024 | Maya / Photoshop |
+|        $\color{#FFD700}{4}$        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024 | Maya / Premiere Pro / Photoshop |
+|        $\color{#FFD700}{5}$        |   [Honey 01](https://drive.google.com/file/d/1wtnyWrhgNHshCq3eJhYQ31njl937SkVf/view?usp=sharing)  | April 2024 | Maya / Photoshop |
+|        $\color{#FFD700}{6}$        |   [Honey 02](https://drive.google.com/file/d/1Xm2dZK3R-eTThtF38ymwtfoHcOU7Vq67/view?usp=sharing)  | April 2024 | Maya / Photoshop |
+|        $\color{#FFD700}{7}$        |   [Lightsaber](https://drive.google.com/drive/folders/14x3Xt1-Vp38xm165GktvLB3PsXLQ73cI?usp=sharing)  | May 2024 | Maya / Premiere Pro / Photoshop |
+|        $\color{#FFD700}{8}$        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop |
+|        $\color{#FFD700}{9}$        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop |
+|        $\color{#FFD700}{10}$       |   [House](https://drive.google.com/file/d/1LTgddAnTO--TWb9P16rhYESoj4O_Xxw4/view?usp=sharing)  | July 2024 | Unreal Engine / Premiere Pro / Photoshop |
 |        $\color{#FFD700}{11}$       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024 | Maya / DaVinci / Photoshop |
-|        12       |   [Sky System](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)  | August 2024  | Unreal Engine / Blueprint |
-|        13       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024 | Maya / DaVinci / Photoshop |
-|        14       |   [Concrete](https://drive.google.com/drive/folders/1c-WtOa708hhC6NwD1WAFz05lZtDB6OHe?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
-|        15       |   [Chain](https://drive.google.com/drive/folders/1vaGgtt_6bukveASrpbvgXVrQWzNgoYcp?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
-|        16       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025 | Unreal Engine / Photoshop |
-|        17       |   [Ruthain. Part 01: Modeling](https://youtu.be/P0POzTQO6vQ)  | June 2025 | Maya |
-|        18       |   [Creature](https://drive.google.com/file/d/1ddLBHWDeGSPF9KP-TzbMdj3Ya4cxUsKB/view?usp=sharing)  | July 2025 | ZBrush / Photoshop |
-|        19       |   [Practice in Substance Painter](https://drive.google.com/file/d/16yl4KUqH3Pd9MyopTAV5WtiOB8ZZNK3c/view?usp=sharing)  | August 2025 |Substance Painter / Marmoset |
+|        $\color{#FFD700}{12}$       |   [Sky System](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)  | August 2024  | Unreal Engine / Blueprint |
+|        $\color{#FFD700}{13}$       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024 | Maya / DaVinci / Photoshop |
+|        $\color{#FFD700}{14}$       |   [Concrete](https://drive.google.com/drive/folders/1c-WtOa708hhC6NwD1WAFz05lZtDB6OHe?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
+|        $\color{#FFD700}{15}$       |   [Chain](https://drive.google.com/drive/folders/1vaGgtt_6bukveASrpbvgXVrQWzNgoYcp?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
+|        $\color{#FFD700}{16}$       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025 | Unreal Engine / Photoshop |
+|        $\color{#FFD700}{17}$       |   [Ruthain. Part 01: Modeling](https://youtu.be/P0POzTQO6vQ)  | June 2025 | Maya |
+|        $\color{#FFD700}{18}$       |   [Creature](https://drive.google.com/file/d/1ddLBHWDeGSPF9KP-TzbMdj3Ya4cxUsKB/view?usp=sharing)  | July 2025 | ZBrush / Photoshop |
+|        $\color{#FFD700}{19}$       |   [Practice in Substance Painter](https://drive.google.com/file/d/16yl4KUqH3Pd9MyopTAV5WtiOB8ZZNK3c/view?usp=sharing)  | August 2025 |Substance Painter / Marmoset |
 |        $\color{#20B2AA}{20}$       |   [Bath](https://www.artstation.com/artwork/0lQN0w)  | December 2025 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
 |        $\color{#20B2AA}{21}$       |   [Set for Bath 01](https://www.artstation.com/artwork/oJDOmq)  | January 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
 |        $\color{#20B2AA}{22}$       |   [Spine Tools](https://www.artstation.com/artwork/lGwLoo)  | February 2026 | Unreal Engine |
