@@ -42,7 +42,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
  
 |        #        |   Title / Название  |  Year / Год  |  Programs / Программы  | Resource Link / Ссылка на ресурс |
 |  :---:  |   ---  |   :---:   |   ---   |   ---   |
-|        $\color{#FFD700}{1}$        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January 2024 | Maya / Photoshop | [Learn Maya - A Beginners guide to Creating Realistic Scenes](https://www.udemy.com/course/learn-maya-for-beginners/) |
+|        $\color{#BDB76B}{1}$        |   [Desk](https://drive.google.com/file/d/1M4BBxe5oC1JNOn9r7kTp6dkrlEx0p_r9/view?usp=sharing)  | January 2024 | Maya / Photoshop | [Learn Maya - A Beginners guide to Creating Realistic Scenes](https://www.udemy.com/course/learn-maya-for-beginners/) |
 |        $\color{#FFD700}{2}$        |   [Accessories](https://drive.google.com/file/d/1IoOE6meLWe7u49-FQUVfVE7n5xikAJfN/view?usp=sharing)  | March 2024 | Maya / Photoshop | [CG Generalist](https://www.cgtarian.ru/online-kursy/3d-post-produkciya-vfx/cg-generalist.html) |
 |        $\color{#20B2AA}{3}$        |   [Accessory](https://drive.google.com/file/d/1OW3QgN8i29XwWnagqDtycAaCr9JsRJIV/view?usp=sharing)  | March 2024 | Maya / Photoshop | Practice / Практика |
 |        $\color{#FFD700}{4}$        |   [Ghostbuster](https://drive.google.com/drive/folders/1nqLdHAVMjrloypYca6cJJBXgKbx4Ec5K?usp=sharing)  | March 2024 | Maya / Premiere Pro / Photoshop | [Maya for Beginners: Complete Guide to 3D Animation in Maya](https://www.udemy.com/course/autodesk-maya-3d-animation-course/) |
