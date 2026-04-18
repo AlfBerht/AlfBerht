@@ -57,7 +57,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        $\color{#FFD700}{13}$       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024 | Maya / DaVinci / Photoshop | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{14}$       |   [Concrete](https://drive.google.com/drive/folders/1c-WtOa708hhC6NwD1WAFz05lZtDB6OHe?usp=sharing)  | December 2024 | Substance Designer / Marmoset | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{15}$       |   [Chain](https://drive.google.com/drive/folders/1vaGgtt_6bukveASrpbvgXVrQWzNgoYcp?usp=sharing)  | December 2024 | Substance Designer / Marmoset | Resource Link / Ссылка на ресурс |
-|        $\color{#FFD700}{16}$       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025 | Unreal Engine / Photoshop | Technical Assessment / Тестовое задание |
+|        $\color{#FF0000}{16}$       |   [City](https://drive.google.com/file/d/1momHsVW8YJlQGsey0tT725ElCAaQ0ST8/view?usp=sharing)  | March 2025 | Unreal Engine / Photoshop | Technical Assessment / Тестовое задание |
 |        $\color{#20B2AA}{17}$       |   [Ruthain. Part 01: Modeling](https://youtu.be/P0POzTQO6vQ)  | June 2025 | Maya | Personal Project / Личный проект |
 |        $\color{#FFD700}{18}$       |   [Creature](https://drive.google.com/file/d/1ddLBHWDeGSPF9KP-TzbMdj3Ya4cxUsKB/view?usp=sharing)  | July 2025 | ZBrush / Photoshop | Resource Link / Ссылка на ресурс |
 |        $\color{#FFD700}{19}$       |   [Practice in Substance Painter](https://drive.google.com/file/d/16yl4KUqH3Pd9MyopTAV5WtiOB8ZZNK3c/view?usp=sharing)  | August 2025 |Substance Painter / Marmoset | Resource Link / Ссылка на ресурс |
@@ -66,8 +66,9 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        $\color{#20B2AA}{22}$       |   [Spine Tools](https://www.artstation.com/artwork/lGwLoo)  | February 2026 | Unreal Engine | Personal Project / Личный проект |
 |        $\color{#20B2AA}{23}$       |   [Set for Bath 02](https://www.artstation.com/artwork/WXNJOD)  | February 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine | Personal Project / Личный проект |
 |        $\color{#20B2AA}{24}$       |   [Custom Water System](https://www.artstation.com/artwork/0lyBY5)  | March 2026 | Unreal Engine | Personal Project / Личный проект |
-> $\color{#FFD700}{\text{■}}$ — **This color represents projects completed as part of courses or tutorials.**<br />
-> $\color{#20B2AA}{\text{■}}$ — **This color represents entirely personal projects.**
+> $\color{#FFD700}{\text{■}}$ — **Projects completed during my studies at CGTarian, Udemy or other platforms.**<br />
+> $\color{#FF0000}{\text{■}}$ — **Tasks completed for job applications or skill evaluations**<br />
+> $\color{#20B2AA}{\text{■}}$ — **My own independent work from scratch.**
 
 ---
 
