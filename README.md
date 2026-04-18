@@ -52,7 +52,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        8        |   [Foxy](https://drive.google.com/drive/folders/1-m11GpZg4VY241gHdr9XADNn5fVviJJG?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop |
 |        9        |   [Skeleton](https://drive.google.com/drive/folders/1mCjKsitJAPYiZ_mL7gC-l7pVQmpOnmMp?usp=sharing)  | June 2024 | Maya / Premiere Pro / Photoshop |
 |        10       |   [House](https://drive.google.com/file/d/1LTgddAnTO--TWb9P16rhYESoj4O_Xxw4/view?usp=sharing)  | July 2024 | Unreal Engine / Premiere Pro / Photoshop |
-|        $\color{#ADD8E6}{11}$       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024 | Maya / DaVinci / Photoshop |
+|        $\color{#FFD700}{11}$       |   [PetrolStation](https://drive.google.com/drive/folders/1a9eKQmY_gjWowrxwlVJvtF3Uj2g3HFjL?usp=sharing)  | August 2024 | Maya / DaVinci / Photoshop |
 |        12       |   [Sky System](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF)  | August 2024  | Unreal Engine / Blueprint |
 |        13       |   [Motion Graphics](https://drive.google.com/file/d/1VuL4E5QY9ck3KalFD4jfGsE9OgBx7Qm_/view?usp=sharing)  | October 2024 | Maya / DaVinci / Photoshop |
 |        14       |   [Concrete](https://drive.google.com/drive/folders/1c-WtOa708hhC6NwD1WAFz05lZtDB6OHe?usp=sharing)  | December 2024 | Substance Designer / Marmoset |
@@ -66,7 +66,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 |        $\color{#20B2AA}{22}$       |   [Spine Tools](https://www.artstation.com/artwork/lGwLoo)  | February 2026 | Unreal Engine |
 |        $\color{#20B2AA}{23}$       |   [Set for Bath 02](https://www.artstation.com/artwork/WXNJOD)  | February 2026 | Maya / ZBrush / Substance Painter / Marmoset / Unreal Engine |
 |        $\color{#20B2AA}{24}$       |   [Custom Water System](https://www.artstation.com/artwork/0lyBY5)  | March 2026 | Unreal Engine |
-> $\color{#ADD8E6}{\text{■}}$ — **This color represents projects completed as part of courses or tutorials.**
+> $\color{#FFD700}{\text{■}}$ — **This color represents projects completed as part of courses or tutorials.**<br />
 > $\color{#20B2AA}{\text{■}}$ — **This color represents entirely personal projects.**
 
 ---
