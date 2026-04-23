@@ -30,11 +30,11 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 
 ---
 
-:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![Gmail](https://img.shields.io/badge/-Gmail-f03c15?style=flat&logo=gmail&logoColor=white)](mailto:alfberht@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/)
+:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![Gmail](https://img.shields.io/badge/-Gmail-f03c15?style=flat&logo=gmail&logoColor=white)](mailto:kseniia@alfberht.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/)
 
 ---
 
-[![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://drive.google.com/file/d/1vKtHn1Egk3ocqLTzg8lxUM9SjJ0x5h5j/view?usp=sharing) [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/alfberht) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF) [![Patreon](https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/c/Ruthain)
+[![CV](https://img.shields.io/badge/-CV-31a097?style=flat")](https://drive.proton.me/urls/PA2KC5Q61W#gtz24rWILTwZ) [![ArtStation](https://img.shields.io/badge/-ArtStation-blue?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/alfberht) [![YouTube](https://img.shields.io/badge/YouTube-f03c15?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL5t-oG0fyTFpw8Nwdy6QA4YbA6WEMsOgF) [![Patreon](https://img.shields.io/badge/Patreon-black?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/c/Ruthain)
 
 ---
  
