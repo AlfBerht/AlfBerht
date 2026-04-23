@@ -95,13 +95,13 @@ This is not the story of a hero, but of someone still learning how to become one
 
 |        #        |   Title / Название  |  Year / Год  |
 |  :---:  |   ---   |   :---:   |
-|        1        |   [Autumn](https://drive.google.com/file/d/1DBa47JxikiwHDlw9U1h5sT3SipVPm5S4/view?usp=sharing)  |  2017 |
-|        2        |   [Lost World](https://drive.google.com/file/d/11g6oWoYq0-GCu2RhoU_nUNLI99UlVwl0/view?usp=sharing)  |  2022  |
-|        3        |   [Inner World](https://drive.google.com/file/d/16kcxnlrMgTZ1_AuCAQECz9ogV63bOliI/view?usp=sharing)  |  2022 |
-|        4        |   [The Dream](https://drive.google.com/file/d/1RIs9GdTxuMZNp-UhlEacTHMC3C5gA2hc/view?usp=sharing)  |  2022  |
-|        5        |   [Time Limits](https://drive.google.com/file/d/1stE9MuxvOv4ZWmWUSL59Ra8jt5Q9UaY0/view?usp=sharing)  |  2022  |
-|        6        |   [The Basis](https://drive.google.com/file/d/1hS1VAhwMsNsMn-YZOLNo2_7RAPaNKWYZ/view?usp=sharing)  |  2023  |
-|        7        |   [Ambivalence of Progress](https://drive.google.com/file/d/182wLnzDcUGDtFCa1jY97kaGjO_q2NKr6/view?usp=sharing)  |  2023  |
+|        1        |   [Autumn](https://drive.proton.me/urls/DENTDA30X4#0lpJzb2milVu)  |  2017 |
+|        2        |   [Lost World](https://drive.proton.me/urls/ZYXN3SAVX4#bkyyxLExzm8n)  |  2022  |
+|        3        |   [Inner World](https://drive.proton.me/urls/8NJN9CKVAW#aEFIsLSNb81O)  |  2022 |
+|        4        |   [The Dream](https://drive.proton.me/urls/RWW3RPFMEW#xVoxaGgwQPsY)  |  2022  |
+|        5        |   [Time Limits](https://drive.proton.me/urls/EA8J04M738#JBV36kYjjnGT)  |  2022  |
+|        6        |   [The Basis](https://drive.proton.me/urls/XPHE2SJG24#bXTfy9JIDoZz)  |  2023  |
+|        7        |   [Ambivalence of Progress](https://drive.proton.me/urls/S68F2EYVVW#C7FzU8Ek3Pw9)  |  2023  |
 
 :star: Digital Paintings<br />
 *(For the most part, it's practice to develop an additional skill)*
@@ -109,6 +109,6 @@ This is not the story of a hero, but of someone still learning how to become one
 
 |        #        |   Title / Название  |  Year / Год  |
 |  :---:  |   ---   |   :---:   |
-|        1        |   [Sketch 01](https://drive.google.com/file/d/1v47SM1FFe_NwVsH4PTtHQJ3_8q45d2QP/view?usp=sharing)  |  2023  |
-|        2        |   [Exercise 01](https://drive.google.com/file/d/1RoE1j0IVdRB9kAq6D8rbL_DMcv7pBMKe/view?usp=sharing)  |  2023  |
-|        3        |   [Sketch 02](https://drive.google.com/file/d/1BL3aiXyXuWC5sfJiR9te2kRCn9ZkfSOt/view?usp=sharing)  |  2024  |
+|        1        |   [Sketch 01](https://drive.proton.me/urls/3HNGK1PAVG#Jh939jKF2oqb)  |  2023  |
+|        2        |   [Exercise 01](https://drive.proton.me/urls/637B8TR8CW#7TgL9uf2Lvn4)  |  2023  |
+|        3        |   [Sketch 02](https://drive.proton.me/urls/0PFRGPGHS4#zU4toyk3hpSJ)  |  2024  |
