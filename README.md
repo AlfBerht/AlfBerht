@@ -30,7 +30,7 @@ Feel free to reach out if you're looking for someone who builds grounded, emotio
 
 ---
 
-:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![e-Mail](https://img.shields.io/badge/-Proton-512FC9?style=flat&logo=gmail&logoColor=white)](mailto:kseniia@alfberht.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/)
+:warning: I am currently on a job search. So if you find me a suitable candidate, please contact me: [![e-Mail](https://img.shields.io/badge/-Proton-512FC9?style=flat&logo=protonmail&logoColor=white)](mailto:kseniia@alfberht.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1589F0?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfberht/)
 
 ---
 
