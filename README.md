@@ -95,13 +95,13 @@ This is not the story of a hero, but of someone still learning how to become one
 
 |        #        |   Title / Название  |  Year / Год  |
 |  :---:  |   ---   |   :---:   |
-|        1        |   [Autumn](https://drive.proton.me/urls/DENTDA30X4#0lpJzb2milVu)  |  2017 |
-|        2        |   [Lost World](https://drive.proton.me/urls/ZYXN3SAVX4#bkyyxLExzm8n)  |  2022  |
-|        3        |   [Inner World](https://drive.proton.me/urls/8NJN9CKVAW#aEFIsLSNb81O)  |  2022 |
-|        4        |   [The Dream](https://drive.proton.me/urls/RWW3RPFMEW#xVoxaGgwQPsY)  |  2022  |
-|        5        |   [Time Limits](https://drive.proton.me/urls/EA8J04M738#JBV36kYjjnGT)  |  2022  |
-|        6        |   [The Basis](https://drive.proton.me/urls/XPHE2SJG24#bXTfy9JIDoZz)  |  2023  |
-|        7        |   [Ambivalence of Progress](https://drive.proton.me/urls/S68F2EYVVW#C7FzU8Ek3Pw9)  |  2023  |
+|        1        |   [Autumn](https://drive.proton.me/urls/8N57Z8H8N8#aCOPSD6MPwrh)  |  2017 |
+|        2        |   [Lost World](https://drive.proton.me/urls/KFSZG9X8Z4#OOdCK6un0NLC)  |  2022  |
+|        3        |   [Inner World](https://drive.proton.me/urls/FDYY0GMNK4#CuQ2Z5FN8Y6q)  |  2022 |
+|        4        |   [The Dream](https://drive.proton.me/urls/WZBWXRBQTC#aUVUMRzuikPD)  |  2022  |
+|        5        |   [Time Limits](https://drive.proton.me/urls/0YCTQFPNEG#QEXkkisxL8wN)  |  2022  |
+|        6        |   [The Basis](https://drive.proton.me/urls/1GMD82MPBC#xtvktVNQYWSE)  |  2023  |
+|        7        |   [Ambivalence of Progress](https://drive.proton.me/urls/R4Z7570M8C#8FtV7diIgEJS)  |  2023  |
 
 :star: Digital Paintings<br />
 *(For the most part, it's practice to develop an additional skill)*
@@ -109,6 +109,6 @@ This is not the story of a hero, but of someone still learning how to become one
 
 |        #        |   Title / Название  |  Year / Год  |
 |  :---:  |   ---   |   :---:   |
-|        1        |   [Sketch 01](https://drive.proton.me/urls/3HNGK1PAVG#Jh939jKF2oqb)  |  2023  |
-|        2        |   [Exercise 01](https://drive.proton.me/urls/637B8TR8CW#7TgL9uf2Lvn4)  |  2023  |
-|        3        |   [Sketch 02](https://drive.proton.me/urls/0PFRGPGHS4#zU4toyk3hpSJ)  |  2024  |
+|        1        |   [Sketch 01](https://drive.proton.me/urls/Y0WZWB7XEC#ScDyQn3dQOqk)  |  2023  |
+|        2        |   [Exercise 01](https://drive.proton.me/urls/X7QMTJEWDW#0MeMj1LtWmXP)  |  2023  |
+|        3        |   [Sketch 02](https://drive.proton.me/urls/A0H049E2VM#9PZ9VxdaDLxu)  |  2024  |
