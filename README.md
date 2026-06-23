@@ -8,8 +8,9 @@
 ### :jigsaw: About Me :
 
 <div>
-I Technical Environment Artist working with Unreal Engine to build high-quality, story-driven environments. Inspired by The Witcher, The Last of Us, and Final Fantasy, I create worlds that feel grounded and alive.<br /><br />
-Feel free to reach out if you're looking for someone who builds grounded, emotional spaces.
+I am a Technical Environment Artist focused on Unreal Engine 5, materials, Blueprint tools, procedural workflows, and optimized environment art.<br /><br />
+My work combines full environment production with technical problem-solving: modeling, sculpting, baking, PBR texturing, shader setup, Blueprint logic, LODs, collisions, and final Unreal Engine integration.<br /><br />
+I enjoy building systems that balance visual quality with performance — from game-ready props and modular assets to custom materials, procedural tools, and real-time environment systems.<br /><br />
 
  ---
 
